@@ -1,0 +1,25 @@
+{
+  "name": "node-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuandtse243/NodeJs-Basic.git"
+  },
+  "keywords": [
+    "node-basic"
+  ],
+  "author": "thanhtuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuandtse243/NodeJs-Basic/issues"
+  },
+  "homepage": "https://github.com/tuandtse243/NodeJs-Basic#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
