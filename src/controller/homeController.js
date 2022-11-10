@@ -33,7 +33,16 @@ let getDetailPage = async (req, res) => {
   return res.send(JSON.stringify(user[0])) // lúc execute thì nó sẽ đá ra 2 tham số [rows, fields] ta chỉ lấy giá trị tham số đầu
 }
 
+let createNewUser = async (req, res) => {
+  console.log('check req: ', req.body)  //giá trị các field trong form sẽ truyền qua body
+  let {firstName, lastName, email, address} = req.body;   //destructuring
+  await pool.execute("INSERT INTO users(firstName, lastName, email, address) VALUES (?, ?, ?, ?)", [firstName, lastName, email, address])
+  
+  return res.redirect('/')  //trở về trang HOME
+  
+}
+
 module.exports = {
-  getHomepage, getDetailPage
+  getHomepage, getDetailPage, createNewUser
 };
 

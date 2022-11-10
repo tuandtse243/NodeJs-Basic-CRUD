@@ -26,3 +26,11 @@ body {
   background-color: #04AA6D;
   color: white;
 }
+
+.create-user-container {
+  padding: 15px;
+}
+
+.create-user-container label {
+  display: block;
+}

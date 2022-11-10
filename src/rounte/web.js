@@ -8,7 +8,7 @@ const initWebRoute = (app) => {
 
   router.get("/detail/user/:id", homeController.getDetailPage)  // :userId truyền giá trị của userId đã lấy từ url ở trang home tới trang detail
   //đoạn sau dấu : chính là tên đặt trong object, sử dụng /:params chính là tham số truyền vào thông qua url
-
+  router.post("/create-new-user", homeController.createNewUser)
   router.get("/about", (req, res) => {
     res.render(`I'm Tuan!`);
   });
