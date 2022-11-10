@@ -6,6 +6,9 @@ let router = express.Router(); //giúp định nghĩa, express hiểu rằng đa
 const initWebRoute = (app) => {
   router.get("/", homeController.getHomepage);
 
+  router.get("/detail/user/:id", homeController.getDetailPage)  // :userId truyền giá trị của userId đã lấy từ url ở trang home tới trang detail
+  //đoạn sau dấu : chính là tên đặt trong object, sử dụng /:params chính là tham số truyền vào thông qua url
+
   router.get("/about", (req, res) => {
     res.render(`I'm Tuan!`);
   });
