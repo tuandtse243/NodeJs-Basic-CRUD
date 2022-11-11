@@ -34,3 +34,10 @@ body {
 .create-user-container label {
   display: block;
 }
+
+.upload-file-container {
+  padding: 15px;
+}
+.upload-file-container label{
+  display: block;
+}

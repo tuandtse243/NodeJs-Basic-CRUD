@@ -1,5 +1,7 @@
 import { json } from 'body-parser';
-import pool from '../configs/connectDB'
+import pool from '../configs/connectDB';
+import multer from 'multer'
+import path from 'path'
 
 let getHomepage = async (req, res) => {
   // simple query
@@ -21,9 +23,6 @@ let getHomepage = async (req, res) => {
 
   const [rows, fields] = await pool.execute('SELECT * FROM users')  //query data dưới database và hàm này trả ra 1 mảng có 2 giá trị là rows và fields nên khi ta viết [rows, fields] sẽ lấy ra đúng 2 giá trị đó
   return res.render("index.ejs", {dataUser: rows});  //tham số đầu tiên là màn hình chúng ta muốn render ra, tham số thứ 2 chính là 1 object chứa data muốn truyền vào view đó
-
-  console.log('>>> check rows: ', rows)
-
 };
 
 let getDetailPage = async (req, res) => {
@@ -64,7 +63,42 @@ let updateUser = async (req, res) => {
   return res.redirect('/')
 }
 
+let uploadFilePage = async (req, res) => {
+  return res.render('uploadFile.ejs')
+}
+
+
+
+const upload = multer().single('profile_pic')  //khai báo này sẽ giúp biết được dùng thằng multer, cần nói cho nó biết 1 cái tên
+                                               // bởi vì nó cần xử lý cái req, dựa vào đó để lấy cái tên file
+
+let handleUploadFile = async (req, res) => {
+  // 'profile_pic' is the name of our file input field in the HTML form
+  console.log(req.file)  //khi dùng multer thì req gửi lên sẽ có 1 tham số lên là file nên ta có thể check xem có gì 
+  upload(req, res, function(err) {
+      // req.file contains information of uploaded file
+      // req.body contains information of text fields, if there were any
+
+      if (req.fileValidationError) {
+          return res.send(req.fileValidationError);
+      }
+      else if (!req.file) {
+          return res.send('Please select an image to upload');
+      }
+      else if (err instanceof multer.MulterError) {
+          return res.send(err);
+      }
+      else if (err) {
+          return res.send(err);
+      }
+
+      // Display uploaded image for user validation
+      res.send(`You have uploaded this image: <hr/><img src="/image/${req.file.filename}" width="500"><hr /><a href="/upload">Upload another image</a>`);
+  });
+}
+
 module.exports = {
-  getHomepage, getDetailPage, createNewUser, deleteUser, editUser, updateUser
+  getHomepage, getDetailPage, createNewUser, deleteUser, editUser, 
+  updateUser, uploadFilePage, handleUploadFile
 };
 
