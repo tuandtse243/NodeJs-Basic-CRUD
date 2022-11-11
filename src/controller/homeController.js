@@ -1,3 +1,4 @@
+import { json } from 'body-parser';
 import pool from '../configs/connectDB'
 
 let getHomepage = async (req, res) => {
@@ -42,7 +43,28 @@ let createNewUser = async (req, res) => {
   
 }
 
+let deleteUser = async (req, res) => {
+  let userId = req.body.userId;
+  await pool.execute('DELETE FROM users WHERE id = ?', [userId]);
+  return res.redirect('/');
+}
+
+let editUser = async (req, res) => {
+  let id = req.params.id
+  let user = await pool.execute('SELECT * FROM users WHERE id = ?', [id]);  //nó trả ra 1 mảng 2 tham số rows và field, trong đó rows cũng là 1 mảng nữa nên user là mảng 2 chiều
+
+  return res.render('update.ejs', {dataUser: user[0][0]});  // vì thế nên lấy [0][0]
+}
+
+let updateUser = async (req, res) => {
+  let id = req.body.id;
+  let {firstName, lastName, email, address} = req.body;   //destructuring
+  await pool.execute('UPDATE users SET firstName=?, lastName=?, email=?, address=? WHERE id=?', [firstName, lastName, email, address, id])
+
+  return res.redirect('/')
+}
+
 module.exports = {
-  getHomepage, getDetailPage, createNewUser
+  getHomepage, getDetailPage, createNewUser, deleteUser, editUser, updateUser
 };
 
