@@ -1,0 +1,1128 @@
+﻿Date,Department,Item Group,Item Name,Business Group,Quantity,Sales Price,Gross Amount,Line Discount Amount,Line Discount Percent,Net Amount,Tax Amount,Invoice Amount,WeekInYear,Batch Number,Outlet Region,Country Code,Channel Name,Sales Tax Group,Customer Classification Group
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Dispenser (150ml),FOOD,6,"57,100.00","342,600.00",0,0,"342,600.00","34,260.00","376,860.00",49,20241011,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Latino Bella Extra Virgin OLIVE OIL (250ml) GREEN BOTTLE,FOOD,12,"81,500.00","978,000.00",0,10,"880,200.00","88,020.00","968,220.00",49,20240721,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,McCormick Whole Black Peppercorn (35g),FOOD,12,"58,500.00","702,000.00",0,0,"702,000.00","70,200.00","772,200.00",49,20250422,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Lorenz Pomsticks Hot & Spicy (100g),FOOD,24,"30,700.00","736,800.00",0,0,"736,800.00","73,680.00","810,480.00",49,20220521,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Ricola Original Herbs Carton Box (40g),FOOD,2,"24,200.00","48,400.00",0,0,"48,400.00","4,840.00","53,240.00",49,20230518,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haagen Dazs Coffee Pint (473ml),FOOD,8,"181,720.00","1,453,760.00",0,0,"1,453,760.00","145,376.00","1,599,136.00",49,20220926,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,HORECA,BEVERAGE,La Vie Glass Bottle Still 450ml,BEVERAGE,60,"23,000.00","1,380,000.00","12,810.00",0,"611,400.00","61,140.00","672,540.00",49,20220511,South,VNM,Horeca,TP-HCM,Pizza4P
+12/1/2021,HORECA,FOOD,Emborg Frozen IQF Mozzarella  Shredded (Easy stretch - Emborg),FOOD,8,"170,000.00","1,360,000.00","30,000.00",0,"1,120,000.00","112,000.00","1,232,000.00",49,20220408,South,DNK,Horeca,TP-HCM,SolGroup
+12/1/2021,MASS,Food,McCormick Hungarian Paprika (30g),FOOD,4,"52,100.00","208,400.00",0,0,"208,400.00","20,840.00","229,240.00",49,20230629,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Ricola Swiss Herb Candy Tet Gift Box 100g,FOOD,16,0,0,0,0,0,0,0,49,20230518,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haribo Happy Cola 160g,FOOD,12,"34,300.00","411,600.00",0,0,"411,600.00","41,160.00","452,760.00",49,20221009,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Happy Cherries (80g),FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20220903,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Loacker Quadratini 110gx12 Matcha,FOOD,1,0,0,0,0,0,0,0,49,20221028,South,ITA,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Ritter Sport Butter Biscuit (100g),FOOD,12,"39,000.00","468,000.00",0,7,"435,240.00","43,524.00","478,764.00",49,20220713,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haribo Goldbears 160g,FOOD,12,"34,300.00","411,600.00",0,0,"411,600.00","41,160.00","452,760.00",49,20221208,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,NONFOOD,Duracell Coppertop Alkaline AAA4,,12,"47,700.00","572,400.00",0,20,"457,920.00","45,792.00","503,712.00",49,20311030,South,CHN,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,POSM,Haagen Dazs Cooler Bag - BTS Band,FOOD,6,0,0,0,0,0,0,0,49,NOEXP,South,HKG,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,FOOD,McVitie's Digestives Nibbles Dark Choco (80g),FOOD,28,"25,000.00","700,000.00",0,0,"700,000.00","70,000.00","770,000.00",49,20221027,South,GBR,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Pep. Farm Distinctive Butter Chessman (206g),FOOD,24,0,0,0,0,0,0,0,49,20220827,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haribo Goldbears 200g,FOOD,20,"51,900.00","1,038,000.00",0,0,"1,038,000.00","103,800.00","1,141,800.00",49,20221215,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,McCormick Thyme Leaves (12g),FOOD,4,"32,500.00","130,000.00",0,0,"130,000.00","13,000.00","143,000.00",49,20250616,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,Haribo Grapes 80g,FOOD,30,"19,000.00","570,000.00",0,0,"570,000.00","57,000.00","627,000.00",49,20230212,South,TUR,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Goldbears 200g,FOOD,20,"51,900.00","1,038,000.00",0,0,"1,038,000.00","103,800.00","1,141,800.00",49,20221215,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,McCormick Hungarian Paprika (30g),FOOD,9,"52,100.00","468,900.00",0,20,"375,120.00","37,512.00","412,632.00",49,20230629,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Pasta Fusilli No.98 (500g),FOOD,45,"49,500.00","2,227,500.00",0,0,"2,227,500.00","222,750.00","2,450,250.00",49,20240314,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Lindt Excellence Intense Orange Chocolate Tablet (100g),FOOD,20,"94,000.00","1,880,000.00",0,15,"1,598,000.00","159,800.00","1,757,800.00",49,20220731,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,BEVERAGE,Evian Water PET Bottle (330ml),BEVERAGE,24,0,0,0,0,0,0,0,49,20230518,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Fancy (250ml),FOOD,24,"69,400.00","1,665,600.00",0,0,"1,665,600.00","166,560.00","1,832,160.00",49,20240909,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,"Ricola Swiss Herb Candy Tet Gift Box 100g
+",FOOD,12,"84,000.00","1,008,000.00",0,10,"907,200.00","90,720.00","997,920.00",49,20230518,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,St Michel France Gourmet tour 150g,FOOD,24,"80,000.00","1,920,000.00",0,5,"1,824,000.00","182,400.00","2,006,400.00",49,20220724,South,FRA,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,"Emborg Frozen Mozzarella, Shredded, F.I.D.M. 40% 200g",FOOD,1,"68,376.00","68,376.00",0,15,"58,119.60","5,811.96","63,931.56",49,20220429,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,HORECA,SERVICE,Transport Fee,,1,"29,960.00","29,960.00",0,0,"29,960.00","2,996.00","32,956.00",49,NA,South,,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Maille Mustard Dijon (215g),FOOD,36,"59,500.00","2,142,000.00",0,0,"2,142,000.00","214,200.00","2,356,200.00",49,20221029,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,"Familia Swiss choco bits 375g
+",FOOD,6,"167,500.00","1,005,000.00",0,0,"1,005,000.00","100,500.00","1,105,500.00",49,20230401,South,CHE,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Sauce Napoletana (400g),FOOD,18,"79,600.00","1,432,800.00",0,0,"1,432,800.00","143,280.00","1,576,080.00",49,20230403,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Merci Petits Chocolate Collection 125g,FOOD,6,"55,000.00","330,000.00",0,0,"330,000.00","33,000.00","363,000.00",49,20220712,South,DEU,Modern Trade,TP-HCM,Kohnan
+12/1/2021,HORECA,FOOD,Emborg Frozen Mozzarella Block,FOOD,506,"173,000.00","87,538,000.00","42,000.00",0,"66,286,000.00","6,628,600.00","72,914,600.00",49,20220520,South,DNK,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,McCormick Italian Seasoning (35g),FOOD,4,"77,600.00","310,400.00",0,0,"310,400.00","31,040.00","341,440.00",49,20230605,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,240,"19,000.00","4,560,000.00",0,7,"4,240,800.00","424,080.00","4,664,880.00",49,20221021,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,BEVERAGE,Perrier 50cl PET,BEVERAGE,48,"27,000.00","1,296,000.00",0,0,"1,296,000.00","129,600.00","1,425,600.00",49,20221224,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Barilla Sauce Napoletana 200g,FOOD,24,"35,500.00","852,000.00",0,15,"724,200.00","72,420.00","796,620.00",49,20230302,South,ITA,Modern Trade,TP-HCM,LotteMart
+12/1/2021,HORECA,FOOD,Westgold UHT Whole Milk 1L,FOOD,12,"33,000.00","396,000.00",0,0,"396,000.00","39,600.00","435,600.00",49,20220511,South,NZL,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,NONFOOD,Duracell Coppertop Alkaline AA4,,12,"47,700.00","572,400.00",0,20,"457,920.00","45,792.00","503,712.00",49,20311030,South,CHN,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haagen Dazs Green Tea Minicup (100ml),FOOD,12,"57,000.00","684,000.00",0,0,"684,000.00","68,400.00","752,400.00",49,20221006,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haagen-Dazs Summer Berries & Cream 100ml,FOOD,24,"57,000.00","1,368,000.00",0,0,"1,368,000.00","136,800.00","1,504,800.00",49,20220721,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haagen Dazs Mango Raspberry Minicup (100ml),FOOD,1,0,0,0,0,0,0,0,49,20221012,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haagen Dazs Cookies & Cream Minicup (100ml),FOOD,5,"50,160.00","250,800.00",0,0,"250,800.00","25,080.00","275,880.00",49,20220721,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,6,"94,200.00","565,200.00",0,0,"565,200.00","56,520.00","621,720.00",49,20230525,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,La Boulangere 10 Milk Breads with chocolate chips 350g,FOOD,3,"80,521.00","241,563.00",0,0,"241,563.00","24,156.30","265,719.30",49,20220821,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,NONFOOD,Duracell Coppertop Alkaline AAA4,,20,"47,700.00","954,000.00",0,0,"954,000.00","95,400.00","1,049,400.00",49,20311030,South,CHN,Modern Trade,TP-HCM,KingFood
+12/1/2021,MASS,POSM,Haagen Dazs Cooler Bag - BTS Band,FOOD,6,0,0,0,0,0,0,0,49,NOEXP,South,HKG,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,FOOD,Merci Finest Selection Chocolate 400g,FOOD,8,"191,000.00","1,528,000.00",0,0,"1,528,000.00","152,800.00","1,680,800.00",49,20220606,South,DE,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,La Boulangere 6 Chocolate Chip Brioche Buns 210g,FOOD,4,"79,816.00","319,264.00",0,0,"319,264.00","31,926.40","351,190.40",49,20220717,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,FOOD,Haribo Grapes 80g,FOOD,7,"19,000.00","133,000.00",0,0,"133,000.00","13,300.00","146,300.00",49,20230212,South,TUR,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Peaches (80g),FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20220918,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,"Emborg Cooking Cream, 20% fat, UHT 200ml",FOOD,7,"47,000.00","329,000.00",0,0,"329,000.00","32,900.00","361,900.00",49,20220714,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haribo Starmix 160g,FOOD,12,"34,300.00","411,600.00",0,0,"411,600.00","41,160.00","452,760.00",49,20221030,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,beverage,Perrier Lime  25cl Slimcan,BEVERAGE,10,"21,300.00","213,000.00",0,0,"213,000.00","21,300.00","234,300.00",49,20221116,South,FRA,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Barilla Sauce Olive (400g),FOOD,6,"94,200.00","565,200.00",0,0,"565,200.00","56,520.00","621,720.00",49,20230305,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Pep. Farm Wafers French Vanilla (382g),FOOD,12,0,0,0,0,0,0,0,49,20220929,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Barilla Pasta Fusilli No.98 (500g),FOOD,30,"49,500.00","1,485,000.00",0,0,"1,485,000.00","148,500.00","1,633,500.00",49,20240313,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Maille Mustard Dijon (215g),FOOD,12,"59,500.00","714,000.00",0,0,"714,000.00","71,400.00","785,400.00",49,20221029,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Haagen Dazs Belgian Chocolate Minicup (100ml),FOOD,12,"57,000.00","684,000.00",0,0,"684,000.00","68,400.00","752,400.00",49,20220723,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haagen Dazs Macadamia Nut Minicup (100ml),FOOD,12,"57,000.00","684,000.00",0,0,"684,000.00","68,400.00","752,400.00",49,20220818,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Barilla Sauce Napoletana (400g),FOOD,12,"79,600.00","955,200.00",0,0,"955,200.00","95,520.00","1,050,720.00",49,20230403,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Pate Royal Pure Pork Mousse,FOOD,12,"94,000.00","1,128,000.00",0,0,"1,128,000.00","112,800.00","1,240,800.00",49,20260930,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Haribo Grapes 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20230212,South,TUR,Modern Trade,TP-HCM,MyMarket
+12/1/2021,MASS,Food,Ricola Lemon Mint Carton Box (40g),FOOD,20,"24,200.00","484,000.00",0,15,"411,400.00","41,140.00","452,540.00",49,20230419,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,"Loacker Minis Collection 240g
+",FOOD,12,"135,000.00","1,620,000.00",0,5,"1,539,000.00","153,900.00","1,692,900.00",49,20230122,South,ITA,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Ritter Sport Mini Chocolate Mix 150g,FOOD,10,"71,000.00","710,000.00",0,0,"710,000.00","71,000.00","781,000.00",49,20220630,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Kuehne Dressing Italian 250ml,FOOD,5,"57,500.00","287,500.00",0,0,"287,500.00","28,750.00","316,250.00",49,20230420,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,HORECA,FOOD,Emborg Ementhaler block,FOOD,2.75,"240,000.00","659,520.00",0,0,"659,520.00","65,952.00","725,472.00",49,20220419,South,DNK,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Barilla Pasta Lasagna No.199 (500g),FOOD,12,"103,500.00","1,242,000.00",0,0,"1,242,000.00","124,200.00","1,366,200.00",49,20230225,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,25,"47,000.00","1,175,000.00",0,25,"881,250.00","88,125.00","969,375.00",49,20240424,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,HORECA,Food,Haagen Dazs Cookies & Cream Minicup (100ml),FOOD,2,"57,000.00","114,000.00",0,0,"114,000.00","11,400.00","125,400.00",49,20220822,South,,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,FOOD,La Boulangere 8 Pains au Chocolat 360g,FOOD,2,"88,536.00","177,072.00",0,0,"177,072.00","17,707.20","194,779.20",49,20220814,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,FOOD,Bertolli Extra Light Olive Oil (500ml),FOOD,12,"145,700.00","1,748,400.00",0,0,"1,748,400.00","174,840.00","1,923,240.00",49,20230811,South,ITA,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Kikkoman Tasty Japan Stir-fry sauce 150ml,FOOD,3,"36,400.00","109,200.00",0,0,"109,200.00","10,920.00","120,120.00",49,20230712,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221021,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,FOOD,"Haribo collection rectangle paper box 240g
+",,12,"67,000.00","804,000.00",0,0,"804,000.00","80,400.00","884,400.00",49,20221126,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Ritter Sport Dark Chocolate 81% Cocoa 100g,,12,"43,000.00","516,000.00",0,0,"516,000.00","51,600.00","567,600.00",49,20221006,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,McVitie's Digestive Milk Chocolate 200g,FOOD,12,"40,000.00","480,000.00",0,0,"480,000.00","48,000.00","528,000.00",49,20220521,South,GBR,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,Ritter Sport Chocolate Mini Collection (250g),FOOD,12,"149,000.00","1,788,000.00",0,0,"1,788,000.00","178,800.00","1,966,800.00",49,20220630,South,US,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,La Boulangere Sliced Brioche 500g,FOOD,3,"86,852.00","260,556.00",0,0,"260,556.00","26,055.60","286,611.60",49,20230212,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Lindt Lindor Assorted Box (168g),FOOD,30,"153,000.00","4,590,000.00",0,20,"3,672,000.00","367,200.00","4,039,200.00",49,20220705,South,CHE,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Haagen Dazs Mango Raspberry Minicup (100ml),FOOD,5,0,0,0,0,0,0,0,49,20221012,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,Tabasco Sauce Pepper GARLIC (60ml),FOOD,4,"53,400.00","213,600.00",0,0,"213,600.00","21,360.00","234,960.00",49,20230610,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,6,"94,200.00","565,200.00",0,0,"565,200.00","56,520.00","621,720.00",49,20230430,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,FOOD,Ritter Sport Mini Goldschatz 150g,FOOD,100,"66,000.00","6,600,000.00",0,10,"5,940,000.00","594,000.00","6,534,000.00",49,20220713,South,DEU,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,McCormick Coarse Black Pepper (35g),FOOD,4,"73,000.00","292,000.00",0,0,"292,000.00","29,200.00","321,200.00",49,20250615,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haagen Dazs Green Tea Minicup (100ml),FOOD,4,"57,000.00","228,000.00",0,2,"223,440.00","22,344.00","245,784.00",49,20221006,South,,Modern Trade,TP-HCM,FamilyMart
+12/1/2021,MASS,FOOD,Westgold Frozen Salted Butter 250g,FOOD,6,"60,400.00","362,400.00",0,0,"362,400.00","36,240.00","398,640.00",49,20221231,South,NZL,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,FOOD,Barilla Sauce Bolognese 200g,FOOD,30,"46,300.00","1,389,000.00",0,0,"1,389,000.00","138,900.00","1,527,900.00",49,20230103,South,ITA,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Lindt Excellence Sea Salt Chocolate Tablet (100g),FOOD,1,"94,000.00","94,000.00",0,0,"94,000.00","9,400.00","103,400.00",49,20220616,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Kuehne Gourmet Barbecue Sauce (250ml),FOOD,24,"39,800.00","955,200.00",0,0,"955,200.00","95,520.00","1,050,720.00",49,20230702,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Barilla Sauce Olive (400g),FOOD,6,"94,200.00","565,200.00",0,0,"565,200.00","56,520.00","621,720.00",49,20230305,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,HORECA,FOOD,Westgold UHT Whole Milk 1L,FOOD,36,"33,000.00","1,188,000.00","8,000.00",0,"900,000.00","90,000.00","990,000.00",49,20220511,South,NZL,Horeca,TP-HCM,Horeca5Star_South
+12/1/2021,MASS,FOOD,Barilla Sauce Basilico 200g,FOOD,12,"35,500.00","426,000.00",0,15,"362,100.00","36,210.00","398,310.00",49,20230412,South,ITA,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,"Emborg Frozen Cook & Bake, Buttery, 80% fat, 200g",FOOD,20,"33,500.00","670,000.00",0,0,"670,000.00","67,000.00","737,000.00",49,20230220,South,DNK,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Haribo Goldbears 200g,FOOD,60,"51,900.00","3,114,000.00",0,0,"3,114,000.00","311,400.00","3,425,400.00",49,20221215,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Worms 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221125,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,Jelly Bean 36 Huge Flavours 200g,FOOD,2,"65,000.00","130,000.00",0,0,"130,000.00","13,000.00","143,000.00",49,20230310,South,IRL,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,FOOD,Werther's Original Eclairs 100g,FOOD,51,"35,000.00","1,785,000.00",0,0,"1,785,000.00","178,500.00","1,963,500.00",49,20220607,South,DEU,Modern Trade,TP-HCM,Kohnan
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,30,"47,000.00","1,410,000.00",0,0,"1,410,000.00","141,000.00","1,551,000.00",49,20240424,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Kikkoman Tasty Japan Teriyaki sauce 150ml,FOOD,12,"36,400.00","436,800.00",0,0,"436,800.00","43,680.00","480,480.00",49,20230714,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230406,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Kikkoman Dipping Seasoning Sauce (150ml),FOOD,3,"36,400.00","109,200.00",0,0,"109,200.00","10,920.00","120,120.00",49,20240715,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,240,"19,000.00","4,560,000.00",0,7,"4,240,800.00","424,080.00","4,664,880.00",49,20221111,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,FOOD,Alpro Almond Drink Unsweetened 1L,,16,"89,900.00","1,438,400.00",0,15,"1,222,640.00","122,264.00","1,344,904.00",49,20220530,South,BEL,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Barilla Sauce Olive (400g),FOOD,12,"94,200.00","1,130,400.00",0,0,"1,130,400.00","113,040.00","1,243,440.00",49,20230305,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,FOOD,Jelly Bean Fruit Cocktail 200g,FOOD,1,"65,000.00","65,000.00",0,0,"65,000.00","6,500.00","71,500.00",49,20221214,South,IRL,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Kikkoman Tasty Japan Tonkatsu sauce 150ml,FOOD,3,"36,400.00","109,200.00",0,0,"109,200.00","10,920.00","120,120.00",49,20230603,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Lindt Swiss Classic Dark Surfin Chocolate Tablet (100g),FOOD,20,"67,000.00","1,340,000.00",0,0,"1,340,000.00","134,000.00","1,474,000.00",49,20221016,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Ritter Sport Dark Whole Hazelnuts,FOOD,24,"43,000.00","1,032,000.00",0,0,"1,032,000.00","103,200.00","1,135,200.00",49,20220817,South,,Modern Trade,TP-HCM,Kohnan
+12/1/2021,MASS,FOOD,Lindt Lindor Oval Tin 144g,FOOD,7,0,0,0,0,0,0,0,49,20220705,South,CHE,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Barilla Pasta Farfalle No.65 (500g),FOOD,5,"49,500.00","247,500.00",0,0,"247,500.00","24,750.00","272,250.00",49,20240227,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Sauce Arrabbiata (400g),FOOD,12,"79,600.00","955,200.00",0,0,"955,200.00","95,520.00","1,050,720.00",49,20230416,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,HORECA,BEVERAGE,Evian Water Glass Bottle (750ml),BEVERAGE,114,"53,300.00","6,076,200.00","15,800.00",0,"4,275,000.00","427,500.00","4,702,500.00",49,20230208,South,,Horeca,TP-HCM,Horeca5Star_South
+12/1/2021,MASS,NONFOOD,Duracell Coppertop Alkaline AA2,,12,"24,500.00","294,000.00",0,20,"235,200.00","23,520.00","258,720.00",49,20291030,South,CHN,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Barilla Pasta Farfalle No.65 (500g),FOOD,30,"49,500.00","1,485,000.00",0,0,"1,485,000.00","148,500.00","1,633,500.00",49,20240227,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,NONFOOD,Duracell Lithium Coin 2032-2s,,2,0,0,0,0,0,0,0,49,20290930,South,CHN,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,FOOD,"Pep Farm American Selection 412g
+",FOOD,36,"169,000.00","6,084,000.00",0,5,"5,779,800.00","577,980.00","6,357,780.00",49,20220728,South,US,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,FOOD,Barilla Pasta Spaghetti mini 200g,FOOD,140,"18,000.00","2,520,000.00",0,0,"2,520,000.00","252,000.00","2,772,000.00",49,20240201,South,TUR,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Bonne Maman Jam Blackberry (370g),FOOD,12,"119,000.00","1,428,000.00",0,0,"1,428,000.00","142,800.00","1,570,800.00",49,20230406,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Dispenser (150ml),FOOD,6,"57,100.00","342,600.00",0,0,"342,600.00","34,260.00","376,860.00",49,20241011,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,FOOD, La Dory Petit Beurre 150g,FOOD,24,"45,000.00","1,080,000.00",0,0,"1,080,000.00","108,000.00","1,188,000.00",49,20220618,South,FRA,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,McCormick Smoked Paprika (37g),FOOD,12,"109,200.00","1,310,400.00",0,0,"1,310,400.00","131,040.00","1,441,440.00",49,20230606,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,La Boulangere 8 plain Tortilla 320g,FOOD,3,"68,587.00","205,761.00",0,0,"205,761.00","20,576.10","226,337.10",49,20221230,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,FOOD,Haribo Grapes 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20230212,South,TUR,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Merci Finest Selection Chocolate 250g,FOOD,10,"110,000.00","1,100,000.00",0,5,"1,045,000.00","104,500.00","1,149,500.00",49,20220809,South,DEU,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Pate Royal Poultry Liver Mousse with Cognac,FOOD,3,"94,000.00","282,000.00",0,0,"282,000.00","28,200.00","310,200.00",49,20260930,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Pep. Farm Distinctive Butter Chessman (206g),FOOD,24,"78,000.00","1,872,000.00",0,0,"1,872,000.00","187,200.00","2,059,200.00",49,20220827,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haagen Dazs Macadamia Nut Pint (473ml),FOOD,12,"181,720.00","2,180,640.00",0,0,"2,180,640.00","218,064.00","2,398,704.00",49,20220924,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,FOOD,Barilla Pasta Spaghetti mini 200g,FOOD,28,"18,000.00","504,000.00",0,0,"504,000.00","50,400.00","554,400.00",49,20240201,South,TUR,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,"Familia Cereals Organic Granola Honey Almond 375g
+",FOOD,3,"153,600.00","460,800.00",0,0,"460,800.00","46,080.00","506,880.00",49,20230101,South,CHE,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Goldbears 160g,FOOD,24,"34,300.00","823,200.00",0,0,"823,200.00","82,320.00","905,520.00",49,20221208,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Walkers Biscuit Chocolate Chunk & Hazelnut (150g),FOOD,12,"80,700.00","968,400.00",0,0,"968,400.00","96,840.00","1,065,240.00",49,20220730,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,12,"19,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20221021,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haribo Starmix 160g,FOOD,60,"34,300.00","2,058,000.00",0,0,"2,058,000.00","205,800.00","2,263,800.00",49,20221030,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,BEVERAGE,Evian Water PET Water (500ml),BEVERAGE,24,"24,600.00","590,400.00",0,20,"472,320.00","47,232.00","519,552.00",49,20220227,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Worms 80g,FOOD,48,"19,000.00","912,000.00",0,0,"912,000.00","91,200.00","1,003,200.00",49,20221125,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,"Emborg Whipped Cream, 30%, Sweetened, in spray can 250g",FOOD,5,"74,900.00","374,500.00",0,7,"348,285.00","34,828.50","383,113.50",49,20220730,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Pep. Farm Wafers Chocolate Hazelnut (382g),FOOD,36,"88,500.00","3,186,000.00",0,5,"3,026,700.00","302,670.00","3,329,370.00",49,20221004,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Barilla Pasta Tortiglioni No.83 (500g),FOOD,15,"49,500.00","742,500.00",0,0,"742,500.00","74,250.00","816,750.00",49,20240401,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,McCormick Oregano Leaves  (10g),FOOD,24,"33,600.00","806,400.00",0,20,"645,120.00","64,512.00","709,632.00",49,20240525,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,24,"94,200.00","2,260,800.00",0,0,"2,260,800.00","226,080.00","2,486,880.00",49,20230525,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Goldbears 160g,FOOD,12,"34,300.00","411,600.00",0,0,"411,600.00","41,160.00","452,760.00",49,20221208,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Lindt Excellence Extra Creamy Milk Chocolate Tablet (100g),FOOD,10,"94,000.00","940,000.00",0,0,"940,000.00","94,000.00","1,034,000.00",49,20220607,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,La Boulangere 4 Hot - Dog Rolls 250g,FOOD,3,"43,426.00","130,278.00",0,0,"130,278.00","13,027.80","143,305.80",49,20230217,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Maille Mustard Old Style (210g),FOOD,12,"59,500.00","714,000.00",0,0,"714,000.00","71,400.00","785,400.00",49,20230110,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,POSM,Paper Bag Lindt,FOOD,5,0,0,0,0,0,0,0,49,NOEXP,South,VNM,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Walkers Biscuit Chocolate Chunk & Hazelnut (150g),FOOD,4,"80,700.00","322,800.00",0,0,"322,800.00","32,280.00","355,080.00",49,20220730,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,McVitie's Digestives Nibbles Milk Choco (80g),FOOD,14,"25,000.00","350,000.00",0,0,"350,000.00","35,000.00","385,000.00",49,20221028,South,GBR,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,BEVERAGE,Perrier  25cl Slimcan,BEVERAGE,20,"21,300.00","426,000.00",0,20,"340,800.00","34,080.00","374,880.00",49,20230217,South,FRA,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,BEVERAGE,Rauch - Happy day Orange 1L,,12,"52,400.00","628,800.00",0,0,"628,800.00","62,880.00","691,680.00",49,20220818,South,AUS,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,BEVERAGE,Volvic Still Water (1.5L),BEVERAGE,12,"51,500.00","618,000.00",0,0,"618,000.00","61,800.00","679,800.00",49,20230527,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,La Boulangere 4 Hot - Dog Rolls 250g,FOOD,6,"43,426.00","260,556.00",0,0,"260,556.00","26,055.60","286,611.60",49,20230217,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,FOOD,Barilla Sauce Basilico 200g,FOOD,12,"35,500.00","426,000.00",0,15,"362,100.00","36,210.00","398,310.00",49,20230412,South,ITA,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,St Michel Mini Madeleines (175g),FOOD,18,"51,700.00","930,600.00",0,0,"930,600.00","93,060.00","1,023,660.00",49,20220514,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Kuehne Dressing Italian 250ml,FOOD,4,"57,500.00","230,000.00",0,0,"230,000.00","23,000.00","253,000.00",49,20230420,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230406,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,McCormick Hungarian Paprika (30g),FOOD,24,"52,100.00","1,250,400.00",0,20,"1,000,320.00","100,032.00","1,100,352.00",49,20230629,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,FOOD,McVitie's Digestive Milk Chocolate 200g,FOOD,8,"40,000.00","320,000.00",0,0,"320,000.00","32,000.00","352,000.00",49,20220521,South,GBR,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Lindt Lindor Milk Box (168g),FOOD,10,"153,000.00","1,530,000.00",0,0,"1,530,000.00","153,000.00","1,683,000.00",49,20220726,South,CHE,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Haribo Chamallows Party 150g,FOOD,11,"34,300.00","377,300.00",0,0,"377,300.00","37,730.00","415,030.00",49,20220616,South,TR,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Barilla Sauce Napoletana (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230403,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,McCormick Basil Leaves  (10g),FOOD,48,"34,700.00","1,665,600.00",0,0,"1,665,600.00","166,560.00","1,832,160.00",49,20240525,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haagen Dazs Green Tea & Almond Bar (80ml),FOOD,12,"79,640.00","955,680.00",0,0,"955,680.00","95,568.00","1,051,248.00",49,20220824,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Haribo Goldbears 160g,FOOD,24,"34,300.00","823,200.00",0,0,"823,200.00","82,320.00","905,520.00",49,20221208,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,POSM,Paper bag for Pep Farm,FOOD,12,0,0,0,0,0,0,0,49,NOEXP,South,VNM,Modern Trade,TP-HCM,MyMarket
+12/1/2021,MASS,Food,Ricola Original Herbs Metal Box (100g),FOOD,48,"57,000.00","2,736,000.00",0,0,"2,736,000.00","273,600.00","3,009,600.00",49,20240518,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,FOOD,Alpro Oat Drink Original 1L,,16,"91,200.00","1,459,200.00",0,15,"1,240,320.00","124,032.00","1,364,352.00",49,20220509,South,BEL,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,11,"19,000.00","209,000.00",0,0,"209,000.00","20,900.00","229,900.00",49,20221111,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Maille Mustard Dijon (215g),FOOD,6,"59,500.00","357,000.00",0,0,"357,000.00","35,700.00","392,700.00",49,20221029,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230406,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,10,0,0,0,0,0,0,0,49,20240424,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,Lindt Lindor Oval Tin 144g,FOOD,42,"153,000.00","6,426,000.00",0,7,"5,976,180.00","597,618.00","6,573,798.00",49,20220705,South,CHE,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,"Emborg Whipped Cream, 30%, Sweetened, in spray can 250g",FOOD,12,"74,900.00","898,800.00",0,0,"898,800.00","89,880.00","988,680.00",49,20220730,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Latino Bella Extra Virgin OLIVE OIL (250ml) GREEN BOTTLE,FOOD,6,"81,500.00","489,000.00",0,0,"489,000.00","48,900.00","537,900.00",49,20240721,South,,Modern Trade,TP-HCM,Jmart
+12/1/2021,MASS,BEVERAGE,Evian MAC PET 150cl,BEVERAGE,24,"51,500.00","1,236,000.00",0,0,"1,236,000.00","123,600.00","1,359,600.00",49,20230521,South,FRA,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haagen Dazs Macadamia Nut Minicup (100ml),FOOD,12,"57,000.00","684,000.00",0,0,"684,000.00","68,400.00","752,400.00",49,20220818,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,McCormick Hungarian Paprika (30g),FOOD,4,"52,100.00","208,400.00",0,0,"208,400.00","20,840.00","229,240.00",49,20230629,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,St Michel Biscuits Collection 270g,FOOD,24,"106,000.00","2,544,000.00",0,15,"2,162,400.00","216,240.00","2,378,640.00",49,20220703,South,FRA,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,BEVERAGE,Perrier water btl 33cl,BEVERAGE,24,"29,500.00","708,000.00",0,20,"566,400.00","56,640.00","623,040.00",49,20240210,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,3,0,0,0,0,0,0,0,49,20240424,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Barilla Sauce Napoletana (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230403,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Happy Cola 160g,FOOD,3,"34,300.00","102,900.00",0,0,"102,900.00","10,290.00","113,190.00",49,20221009,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Starmix 160g,FOOD,2,"34,300.00","68,600.00",0,0,"68,600.00","6,860.00","75,460.00",49,20221030,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Barilla Pasta Angel Hair – 500g,FOOD,48,"47,000.00","2,256,000.00",0,0,"2,256,000.00","225,600.00","2,481,600.00",49,20240127,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Ritter Sport Dark Whole Hazelnuts,FOOD,20,"43,000.00","860,000.00",0,20,"688,000.00","68,800.00","756,800.00",49,20220817,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,"Familia  Swiss Choco Teddy 250g
+",FOOD,3,"126,000.00","378,000.00",0,0,"378,000.00","37,800.00","415,800.00",49,20230318,South,CHE,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,La Boulangere 8 plain Tortilla 320g,FOOD,1,"68,587.00","68,587.00",0,0,"68,587.00","6,858.70","75,445.70",49,20221230,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,HORECA,Food,Haagen Dazs Green Tea Minicup (100ml),FOOD,2,"57,000.00","114,000.00",0,0,"114,000.00","11,400.00","125,400.00",49,20221006,South,,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Haagen Dazs Blueberry & Cream Minicup (100ml),FOOD,3,"57,000.00","171,000.00",0,0,"171,000.00","17,100.00","188,100.00",49,20221010,South,,Modern Trade,TP-HCM,CircleK_South
+12/1/2021,MASS,Food,Lindt Excellence Intense Orange Chocolate Tablet (100g),FOOD,12,"94,000.00","1,128,000.00",0,7,"1,049,040.00","104,904.00","1,153,944.00",49,20220731,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haribo Goldbears 200g,FOOD,10,"51,900.00","519,000.00",0,0,"519,000.00","51,900.00","570,900.00",49,20221215,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230406,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,HORECA,BEVERAGE,La Vie Glass Bottle Still 450ml,BEVERAGE,60,"23,000.00","1,380,000.00","12,810.00",0,"611,400.00","61,140.00","672,540.00",49,20220511,South,VNM,Horeca,TP-HCM,PaccGroup
+12/1/2021,MASS,Food,Barilla Pasta Linguine - 500g,FOOD,100,"47,000.00","4,700,000.00",0,0,"4,700,000.00","470,000.00","5,170,000.00",49,20240213,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Pepperidge Farm Cookies Milano Double Chocolate (213g),FOOD,5,"81,300.00","406,500.00",0,7,"378,045.00","37,804.50","415,849.50",49,20220828,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,6,"94,200.00","565,200.00",0,0,"565,200.00","56,520.00","621,720.00",49,20230430,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haagen Dazs Strawberry Pint (473ml),FOOD,1,"206,500.00","206,500.00",0,0,"206,500.00","20,650.00","227,150.00",49,20220926,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,6,"19,000.00","114,000.00",0,0,"114,000.00","11,400.00","125,400.00",49,20221111,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,45,"47,000.00","2,115,000.00",0,25,"1,586,250.00","158,625.00","1,744,875.00",49,20240424,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,McCormick Cajun Seasoning (35g),FOOD,12,"57,100.00","685,200.00",0,20,"548,160.00","54,816.00","602,976.00",49,20230510,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haagen Dazs Belgian Chocolate Minicup (100ml),FOOD,10,"57,000.00","570,000.00",0,0,"570,000.00","57,000.00","627,000.00",49,20220723,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,FOOD,Emborg Frozen Brie Cheese Mon Ami 200g,FOOD,18,"61,600.00","1,108,800.00",0,0,"1,108,800.00","110,880.00","1,219,680.00",49,20220408,South,DNK,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,FOOD,Merci Finest Selection Milk Chocolate 250g,FOOD,10,"110,000.00","1,100,000.00",0,5,"1,045,000.00","104,500.00","1,149,500.00",49,20220809,South,DEU,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Kuehne Gourmet Steak Sauce (250ml),FOOD,48,"39,800.00","1,910,400.00",0,0,"1,910,400.00","191,040.00","2,101,440.00",49,20230628,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Loacker Classic 45g Napolitaner,FOOD,12,0,0,0,0,0,0,0,49,20221028,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,HORECA,FOOD,SPAGHETTI 3KG Non-BBPE,FOOD,48,"140,400.00","6,739,200.00","29,400.00",0,"5,328,000.00","532,800.00","5,860,800.00",49,20231101,South,ITA,Horeca,TP-HCM,Pizza4P
+12/1/2021,MASS,Food,Barilla Sauce Olive (400g),FOOD,3,"94,200.00","282,600.00",0,0,"282,600.00","28,260.00","310,860.00",49,20230305,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,BEVERAGE,Evian Water Glass Bottle (750ml),BEVERAGE,120,"53,300.00","6,396,000.00",0,0,"6,396,000.00","639,600.00","7,035,600.00",49,20230310,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,McCormick Basil Leaves  (10g),FOOD,4,"34,700.00","138,800.00",0,0,"138,800.00","13,880.00","152,680.00",49,20240525,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Kuehne Honey-Mustard Dressing (250ml),FOOD,16,"57,500.00","920,000.00",0,0,"920,000.00","92,000.00","1,012,000.00",49,20230203,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haagen Dazs Cookies & Cream Minicup (100ml),FOOD,12,"57,000.00","684,000.00",0,0,"684,000.00","68,400.00","752,400.00",49,20220822,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,Bertolli Extra Virgin Olive Oil (250ml),FOOD,24,"95,500.00","2,292,000.00",0,0,"2,292,000.00","229,200.00","2,521,200.00",49,20230112,South,ITA,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,Alpro Almond Drink Original 1L,,16,"89,900.00","1,438,400.00",0,15,"1,222,640.00","122,264.00","1,344,904.00",49,20220606,South,BEL,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Haagen Dazs Mango Raspberry Minicup (100ml),FOOD,8,0,0,0,0,0,0,0,49,20221012,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,St Michel Coconut Shortbreads (120g),FOOD,3,"34,800.00","104,400.00",0,0,"104,400.00","10,440.00","114,840.00",49,20220717,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,12,"19,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20221107,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,McCormick Steak Spice (60g),FOOD,24,"58,300.00","1,399,200.00",0,0,"1,399,200.00","139,920.00","1,539,120.00",49,20230510,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Pep. Farm Distinctive Butter Chessman (206g),FOOD,144,"78,000.00","11,232,000.00",0,7,"10,445,760.00","1,044,576.00","11,490,336.00",49,20220827,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Fancy (1L),FOOD,12,"125,800.00","1,509,600.00",0,0,"1,509,600.00","150,960.00","1,660,560.00",49,20221106,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,6,"19,000.00","114,000.00",0,0,"114,000.00","11,400.00","125,400.00",49,20221021,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,HORECA,Food,CIRIO Whole peeled tomato 2500g,FOOD,6,"97,600.00","585,600.00","12,130.00",0,"512,820.00","51,282.00","564,102.00",49,20231231,South,,Horeca,TP-HCM,PizzaHut
+12/1/2021,MASS,Food,Ricola Alpin Fresh Carton Box (40g),FOOD,20,"24,200.00","484,000.00",0,15,"411,400.00","41,140.00","452,540.00",49,20230421,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Maple Joe Maple Syrup (250g),FOOD,12,"194,000.00","2,328,000.00",0,0,"2,328,000.00","232,800.00","2,560,800.00",49,20240511,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,6,"19,000.00","114,000.00",0,0,"114,000.00","11,400.00","125,400.00",49,20221021,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Dispenser (150ml),FOOD,30,"57,100.00","1,713,000.00",0,0,"1,713,000.00","171,300.00","1,884,300.00",49,20241011,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Tabasco Sauce Pepper RED (60ml),FOOD,1,"53,400.00","53,400.00",0,0,"53,400.00","5,340.00","58,740.00",49,20260714,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,6,"94,200.00","565,200.00",0,0,"565,200.00","56,520.00","621,720.00",49,20230430,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,72,"19,000.00","1,368,000.00",0,0,"1,368,000.00","136,800.00","1,504,800.00",49,20221205,South,,Modern Trade,TP-HCM,BachHoaXanh
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Dispenser (150ml),FOOD,24,"57,100.00","1,370,400.00",0,0,"1,370,400.00","137,040.00","1,507,440.00",49,20241011,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,"Emborg Frozen Cheddar, Shredded, F.I.D.M. 50% 200g",FOOD,3,"73,800.00","221,400.00",0,0,"221,400.00","22,140.00","243,540.00",49,20220726,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,BEVERAGE,Volvic Still Water (1.5L),BEVERAGE,1,0,0,0,0,0,0,0,49,20230527,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haagen Dazs Macadamia Nut Minicup (100ml),FOOD,4,"57,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20220818,South,,Modern Trade,TP-HCM,CircleK_South
+12/1/2021,MASS,Food,Barilla Sauce Napoletana (400g),FOOD,3,"79,600.00","238,800.00",0,7,"222,084.00","22,208.40","244,292.40",49,20230403,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,McCormick Ground Cumin (30g),FOOD,10,"51,300.00","513,000.00",0,0,"513,000.00","51,300.00","564,300.00",49,20240531,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Haagen Dazs Cookies & Cream Pint (473ml),FOOD,6,"181,720.00","1,090,320.00",0,0,"1,090,320.00","109,032.00","1,199,352.00",49,20220825,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Pep. Farm Goldfish CHEDDAR 8.6oz (187 gr),FOOD,24,"59,500.00","1,428,000.00",0,0,"1,428,000.00","142,800.00","1,570,800.00",49,20220726,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,90,0,0,0,0,0,0,0,49,20240424,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,Lindt Lindor Layer Tin 144g,FOOD,60,"146,000.00","8,760,000.00",0,0,"8,760,000.00","876,000.00","9,636,000.00",49,20220705,South,CHE,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,NONFOOD,Duracell Coppertop Alkaline AAA2,,12,"21,560.00","258,720.00",0,0,"258,720.00","25,872.00","284,592.00",49,20310731,South,CHN,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Kikkoman Teriyaki Sauce Japan Grill (250ml),FOOD,36,"86,300.00","3,106,800.00",0,0,"3,106,800.00","310,680.00","3,417,480.00",49,20240827,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haagen-Dazs Summer Berries & Cream 100ml,FOOD,12,"57,000.00","684,000.00",0,0,"684,000.00","68,400.00","752,400.00",49,20220721,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haagen Dazs Cookies & Cream Minicup (100ml),FOOD,4,"57,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20220822,South,,Modern Trade,TP-HCM,CircleK_South
+12/1/2021,MASS,Food,Lindt Excellence Dark 90% Chocolate Tablet (100g),FOOD,20,"107,000.00","2,140,000.00",0,15,"1,819,000.00","181,900.00","2,000,900.00",49,20220930,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Pasta Spaghettoni (500g),FOOD,25,"47,000.00","1,175,000.00",0,0,"1,175,000.00","117,500.00","1,292,500.00",49,20240317,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Cirio Whole Peeled Tomato (400g),FOOD,12,"36,500.00","438,000.00",0,0,"438,000.00","43,800.00","481,800.00",49,20241231,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Werther's Original Eclairs 100g,FOOD,9,"35,000.00","315,000.00",0,0,"315,000.00","31,500.00","346,500.00",49,20220719,South,DEU,Modern Trade,TP-HCM,Kohnan
+12/1/2021,MASS,FOOD,La Dory Petit Beurre White Tin Box 300g Gift box,FOOD,12,"123,000.00","1,476,000.00",0,5,"1,402,200.00","140,220.00","1,542,420.00",49,20220728,South,US,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Maille Mustard Old Style (845g),FOOD,12,"132,500.00","1,590,000.00",0,0,"1,590,000.00","159,000.00","1,749,000.00",49,20221119,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Barilla Pasta Spaghettoni (500g),FOOD,25,"47,000.00","1,175,000.00",0,0,"1,175,000.00","117,500.00","1,292,500.00",49,20240317,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,FOOD,Riesen dark chocolate chewy toffee 105g,FOOD,15,"32,000.00","480,000.00",0,0,"480,000.00","48,000.00","528,000.00",49,20220831,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,McCormick Ground Cinnamon (32g),FOOD,3,"51,600.00","154,800.00",0,0,"154,800.00","15,480.00","170,280.00",49,20240624,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Barilla Sauce Olive (400g),FOOD,6,"94,200.00","565,200.00",0,0,"565,200.00","56,520.00","621,720.00",49,20230305,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Sauce Arrabbiata (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230416,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,HORECA,Food,"Emborg Cheddar, Mild, white, Portion, F.I.D.M. 48% 200g",FOOD,1,"72,000.00","72,000.00",0,0,"72,000.00","7,200.00","79,200.00",49,20220616,South,,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Ricola Lemon Mint Carton Box (40g),FOOD,20,"24,200.00","484,000.00",0,15,"411,400.00","41,140.00","452,540.00",49,20230419,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Kikkoman Teriyaki Marinade Original (250ml),FOOD,3,"78,000.00","234,000.00",0,0,"234,000.00","23,400.00","257,400.00",49,20240821,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Pep. Farm Double Nantucket (220g),FOOD,3,"89,000.00","267,000.00",0,0,"267,000.00","26,700.00","293,700.00",49,20220712,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,McCormick Thyme Leaves (12g),FOOD,12,"32,500.00","390,000.00",0,20,"312,000.00","31,200.00","343,200.00",49,20250616,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,"Emborg Gouda, Sliced, F.I.D.M. 48% 150g",FOOD,6,"55,616.00","333,696.00",0,15,"283,641.60","28,364.16","312,005.76",49,20220730,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,12,"94,200.00","1,130,400.00",0,0,"1,130,400.00","113,040.00","1,243,440.00",49,20230430,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,9,"19,000.00","171,000.00",0,0,"171,000.00","17,100.00","188,100.00",49,20221111,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,BEVERAGE,English Tea Shop Organic English Breakfast 20 bags (40g),BEVERAGE,6,"90,000.00","540,000.00",0,10,"486,000.00","48,600.00","534,600.00",49,20240819,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Haribo Grapes 80g,FOOD,2,"19,000.00","38,000.00",0,0,"38,000.00","3,800.00","41,800.00",49,20230212,South,TUR,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Kuehne Dressing Thousand Islands 250ml,FOOD,4,"57,500.00","230,000.00",0,0,"230,000.00","23,000.00","253,000.00",49,20230123,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221111,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haagen Dazs Mango Raspberry Minicup (100ml),FOOD,16,0,0,0,0,0,0,0,49,20221012,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Haagen Dazs Belgian Chocolate Minicup (100ml),FOOD,24,"50,160.00","1,203,840.00",0,0,"1,203,840.00","120,384.00","1,324,224.00",49,20220723,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,6,"47,000.00","282,000.00",0,25,"211,500.00","21,150.00","232,650.00",49,20240424,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Barilla Pasta Penne Rigate No.73 (500g),FOOD,2,"49,500.00","99,000.00",0,0,"99,000.00","9,900.00","108,900.00",49,20240319,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,La Boulangere 8 plain Tortilla 320g,FOOD,4,"68,587.00","274,348.00",0,0,"274,348.00","27,434.80","301,782.80",49,20221230,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,6,"47,000.00","282,000.00",0,25,"211,500.00","21,150.00","232,650.00",49,20240424,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Lorenz Naturals Sea Salt & Pepper (100g),FOOD,6,"40,900.00","245,400.00",0,0,"245,400.00","24,540.00","269,940.00",49,20220604,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Barilla Sauce Napoletana (400g),FOOD,10,"79,600.00","796,000.00",0,0,"796,000.00","79,600.00","875,600.00",49,20230403,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,Westgold Frozen Salted Butter 250g,FOOD,10,"53,152.00","531,520.00",0,0,"531,520.00","53,152.00","584,672.00",49,20221231,South,NZL,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,McCormick Smoked Paprika (37g),FOOD,4,"109,200.00","436,800.00",0,0,"436,800.00","43,680.00","480,480.00",49,20230606,South,,General Trade,TP-HCM,GT_South
+12/1/2021,HORECA,Food,Barilla Pasta Spaghetti No.5 (1kg),FOOD,3,"87,200.00","261,600.00",0,4,"251,136.00","25,113.60","276,249.60",49,20230701,South,,Horeca,TP-HCM,Bastahiro
+12/1/2021,MASS,Food,Tabasco Sauce Pepper CHIPOTLE (60ml),FOOD,4,"53,400.00","213,600.00",0,0,"213,600.00","21,360.00","234,960.00",49,20230611,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221021,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Barilla Sauce Napoletana (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230403,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,HORECA,Food,Emborg Whipping Cream 1L (Cream 35%),FOOD,12,"127,500.00","1,530,000.00","32,500.00",0,"1,140,000.00","114,000.00","1,254,000.00",49,20220301,South,,Horeca,TP-HCM,Horeca_south
+12/1/2021,MASS,Food,Haagen Dazs Coffee Minicup (100ml),FOOD,8,"50,160.00","401,280.00",0,0,"401,280.00","40,128.00","441,408.00",49,20220803,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Loacker Classic 45g Napolitaner,FOOD,25,"20,800.00","520,000.00",0,0,"520,000.00","52,000.00","572,000.00",49,20221028,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,12,"19,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20221111,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,FOOD,Pep Farm Washington Flavor 426g,FOOD,36,"203,000.00","7,308,000.00",0,5,"6,942,600.00","694,260.00","7,636,860.00",49,20220715,South,USA,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,BEVERAGE,Teisseire Syrup Strawberry 70cl,BEVERAGE,12,"195,000.00","2,340,000.00",0,2,"2,293,200.00","229,320.00","2,522,520.00",49,20240222,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,5,"19,000.00","95,000.00",0,0,"95,000.00","9,500.00","104,500.00",49,20221107,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,HORECA,Food,Emborg Frozen Mascarpone,FOOD,5,"145,000.00","725,000.00",0,0,"725,000.00","72,500.00","797,500.00",49,20220329,South,,Horeca,TP-HCM,Horeca5Star_South
+12/1/2021,MASS,Food,Ritter Sport Raisins & Hazelnuts(100g),FOOD,48,"39,000.00","1,872,000.00",0,0,"1,872,000.00","187,200.00","2,059,200.00",49,20220714,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Lindt Classic White Choc Almond Tablet (100g),FOOD,15,"78,000.00","1,170,000.00",0,10,"1,053,000.00","105,300.00","1,158,300.00",49,20220630,South,,Modern Trade,TP-HCM,Kohnan
+12/1/2021,MASS,Food,Lindt Excellence 85% Dark Chocolate Tablet (100g),FOOD,5,"94,000.00","470,000.00",0,0,"470,000.00","47,000.00","517,000.00",49,20220831,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Pep. Farm Wafers Chocolate Fudge (382g),FOOD,72,"88,500.00","6,372,000.00",0,7,"5,925,960.00","592,596.00","6,518,556.00",49,20221006,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,BEVERAGE,English Tea Shop Organic English Breakfast 20 bags (40g),BEVERAGE,6,"90,000.00","540,000.00",0,10,"486,000.00","48,600.00","534,600.00",49,20240819,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221021,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,BEVERAGE,Teisseire Syrup Grenadine 70cl,BEVERAGE,2,"150,000.00","300,000.00",0,0,"300,000.00","30,000.00","330,000.00",49,20240120,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,6,"19,000.00","114,000.00",0,0,"114,000.00","11,400.00","125,400.00",49,20221205,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,96,"19,000.00","1,824,000.00",0,0,"1,824,000.00","182,400.00","2,006,400.00",49,20221205,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Latino Bella Extra Virgin OLIVE OIL (250ml) GREEN BOTTLE,FOOD,1,"81,500.00","81,500.00",0,0,"81,500.00","8,150.00","89,650.00",49,20240721,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,12,"19,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20221021,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haribo Goldbears 160g,FOOD,36,"34,300.00","1,234,800.00",0,0,"1,234,800.00","123,480.00","1,358,280.00",49,20221208,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,Haribo Chamallows Party 150g,FOOD,24,"34,300.00","823,200.00",0,0,"823,200.00","82,320.00","905,520.00",49,20220603,South,TR,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,"Haribo collection rectangle paper box 240g
+",,126,"67,000.00","8,442,000.00",0,7,"7,851,060.00","785,106.00","8,636,166.00",49,20221126,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,POSM,Paper bag for Pep Farm,FOOD,36,0,0,0,0,0,0,0,49,NOEXP,South,VNM,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Haribo Chamallows Pink & White (150g),FOOD,24,"34,300.00","823,200.00",0,0,"823,200.00","82,320.00","905,520.00",49,20220817,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,NONFOOD,Duracell Coppertop Alkaline AAA2,,12,"24,500.00","294,000.00",0,20,"235,200.00","23,520.00","258,720.00",49,20310731,South,CHN,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Walkers Biscuit Fruit & Lemon (150g),FOOD,4,"80,700.00","322,800.00",0,0,"322,800.00","32,280.00","355,080.00",49,20220630,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,NONFOOD,Duracell Coppertop Alkaline AAA2,,10,"24,500.00","245,000.00",0,0,"245,000.00","24,500.00","269,500.00",49,20310731,South,CHN,Modern Trade,TP-HCM,KingFood
+12/1/2021,MASS,BEVERAGE,Perrier water btl 33cl,BEVERAGE,24,"29,500.00","708,000.00",0,20,"566,400.00","56,640.00","623,040.00",49,20240210,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Worms 80g,FOOD,18,"19,000.00","342,000.00",0,15,"290,700.00","29,070.00","319,770.00",49,20221125,South,,Modern Trade,TP-HCM,Kohnan
+12/1/2021,MASS,FOOD,McVitie's Digestive Mini 227.5g,FOOD,12,"40,000.00","480,000.00",0,5,"456,000.00","45,600.00","501,600.00",49,20221001,South,IND,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,FOOD,Bertolli Extra Light Olive Oil (1L),FOOD,12,"284,800.00","3,417,600.00",0,0,"3,417,600.00","341,760.00","3,759,360.00",49,20230621,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Lindt Excellence Dark 90% Chocolate Tablet (100g),FOOD,20,"107,000.00","2,140,000.00",0,15,"1,819,000.00","181,900.00","2,000,900.00",49,20220930,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Barilla Sauce Bolognese 200g,FOOD,5,"46,300.00","231,500.00",0,0,"231,500.00","23,150.00","254,650.00",49,20230103,South,ITA,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Barilla Sauce Olive (400g),FOOD,6,"94,200.00","565,200.00",0,0,"565,200.00","56,520.00","621,720.00",49,20230305,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Loacker Quadratini Dark Chocolate (125g),FOOD,12,"65,000.00","780,000.00",0,7,"725,400.00","72,540.00","797,940.00",49,20221208,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,3,"79,600.00","238,800.00",0,0,"238,800.00","23,880.00","262,680.00",49,20230406,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Pepperidge Farm Cookies Milano Mint Chocolate 198g,FOOD,5,"81,300.00","406,500.00",0,7,"378,045.00","37,804.50","415,849.50",49,20220816,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,10,"94,200.00","942,000.00",0,0,"942,000.00","94,200.00","1,036,200.00",49,20230525,South,,Modern Trade,TP-HCM,Jmart
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Dispenser (150ml),FOOD,6,"57,100.00","342,600.00",0,0,"342,600.00","34,260.00","376,860.00",49,20241011,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,36,"94,200.00","3,391,200.00",0,0,"3,391,200.00","339,120.00","3,730,320.00",49,20230525,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Ritter Sport Dark Chocolate 50% (100g),FOOD,12,"39,000.00","468,000.00",0,7,"435,240.00","43,524.00","478,764.00",49,20221014,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Tyrrells Sea Salt & Cracked Black Pepper (150g),FOOD,12,"87,100.00","1,045,200.00",0,0,"1,045,200.00","104,520.00","1,149,720.00",49,20220416,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221107,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Pep. Farm Distinctive Butter Chessman (206g),FOOD,2,"78,000.00","156,000.00",0,0,"156,000.00","15,600.00","171,600.00",49,20220714,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Dispenser (150ml),FOOD,1,"57,100.00","57,100.00",0,0,"57,100.00","5,710.00","62,810.00",49,20241011,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,18,"19,000.00","342,000.00",0,20,"273,600.00","27,360.00","300,960.00",49,20221111,South,,Modern Trade,TP-HCM,Kohnan
+12/1/2021,HORECA,Food,"Emborg Cooking cream, UHT, 20% fat 1L",FOOD,100,"111,800.00","11,180,000.00","21,800.00",0,"9,000,000.00","900,000.00","9,900,000.00",49,20220512,South,,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,FOOD,La Boulangere Plaited Brioche 400g,FOOD,3,"105,688.00","317,064.00",0,0,"317,064.00","31,706.40","348,770.40",49,20230110,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Ritter Sport White Whole Hazelnuts,FOOD,10,"43,000.00","430,000.00",0,20,"344,000.00","34,400.00","378,400.00",49,20220713,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Sushi&Sashimi (150ml),FOOD,24,"60,800.00","1,459,200.00",0,15,"1,240,320.00","124,032.00","1,364,352.00",49,20240920,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,12,"19,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20221205,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haribo Fruity Basket 80g,FOOD,3,0,0,0,0,0,0,0,49,20220518,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,Barilla Sauce Bolognese 200g,FOOD,10,"46,300.00","463,000.00",0,0,"463,000.00","46,300.00","509,300.00",49,20230103,South,ITA,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Ricola Alpin Fresh Carton Box (40g),FOOD,15,"24,200.00","363,000.00",0,0,"363,000.00","36,300.00","399,300.00",49,20230421,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,BEVERAGE,Rauch - Happy day Peach 1L,,12,"50,700.00","608,400.00",0,0,"608,400.00","60,840.00","669,240.00",49,20220806,South,AUS,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,BEVERAGE,Rauch - Happy day Pink Guava,,12,"50,700.00","608,400.00",0,0,"608,400.00","60,840.00","669,240.00",49,20220725,South,AUS,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Ricola Lemon Mint Carton Box (40g),FOOD,31,"24,200.00","750,200.00",0,0,"750,200.00","75,020.00","825,220.00",49,20230419,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,HORECA,Food,Latino Bella Olives BLACK OLIVES Tins (3kg)- V2,FOOD,1,"200,500.00","200,500.00","15,012.00",0,"185,488.00","18,548.80","204,036.80",49,20240422,South,,Horeca,TP-HCM,Bastahiro
+12/1/2021,MASS,Food,Kuehne French Dressing (250ml),FOOD,6,"57,500.00","345,000.00",0,0,"345,000.00","34,500.00","379,500.00",49,20230123,South,,Modern Trade,TP-HCM,Jmart
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,6,"94,200.00","565,200.00",0,0,"565,200.00","56,520.00","621,720.00",49,20230430,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,HORECA,BEVERAGE,Ferrarelle Glass 75cl,BEVERAGE,60,"55,000.00","3,300,000.00","17,000.00",0,"2,280,000.00","228,000.00","2,508,000.00",49,20230428,South,ITA,Horeca,TP-HCM,Horeca5Star_South
+12/1/2021,MASS,FOOD, La Dory Petit Beurre 150g,FOOD,24,"45,000.00","1,080,000.00",0,0,"1,080,000.00","108,000.00","1,188,000.00",49,20220618,South,FRA,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221107,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,HORECA,Food,Ritter Sport Mini Chocolate Mix 150g,FOOD,30,"71,000.00","2,130,000.00",0,0,"2,130,000.00","213,000.00","2,343,000.00",49,20220630,South,,Horeca,TP-HCM,HoangYen
+12/1/2021,MASS,Food,Haribo Fruity Basket 80g,FOOD,3,0,0,0,0,0,0,0,49,20220518,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haagen Dazs Strawberry Minicup (100ml),FOOD,12,"57,000.00","684,000.00",0,0,"684,000.00","68,400.00","752,400.00",49,20220829,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Haribo Peaches (80g),FOOD,6,"19,000.00","114,000.00",0,0,"114,000.00","11,400.00","125,400.00",49,20220918,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,La Boulangere Organic Multigrain Loaf (500g),,2,"103,400.00","206,800.00",0,0,"206,800.00","20,680.00","227,480.00",49,20230127,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Barilla Pasta Tagliatelle No.129 (500g),FOOD,12,"90,600.00","1,087,200.00",0,0,"1,087,200.00","108,720.00","1,195,920.00",49,20221119,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Ricola Mountain Mint Carton Box (40g),FOOD,20,"24,200.00","484,000.00",0,0,"484,000.00","48,400.00","532,400.00",49,20230518,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,HORECA,BEVERAGE,La Vie Glass Bottle Still 450ml,BEVERAGE,100,"23,000.00","2,300,000.00","12,810.00",0,"1,019,000.00","101,900.00","1,120,900.00",49,20220511,South,VNM,Horeca,TP-HCM,PaccGroup
+12/1/2021,HORECA,BEVERAGE,Teisseire Syrup Strawberry 70cl,BEVERAGE,5,"195,000.00","975,000.00",0,12,"858,000.00","85,800.00","943,800.00",49,20240222,South,,Horeca,TP-HCM,GoldenGate
+12/1/2021,MASS,NONFOOD,Duracell Coppertop Alkaline AAA4,,24,"41,976.00","1,007,424.00",0,15,"856,310.40","85,631.04","941,941.44",49,20311030,South,CHN,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Lorenz Pomsticks Hot & Spicy (100g),FOOD,20,"30,700.00","614,000.00",0,0,"614,000.00","61,400.00","675,400.00",49,20220521,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Goldbears 160g,FOOD,60,"34,300.00","2,058,000.00",0,0,"2,058,000.00","205,800.00","2,263,800.00",49,20221208,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,3,"94,200.00","282,600.00",0,0,"282,600.00","28,260.00","310,860.00",49,20230430,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,FOOD, La Dory Petit Beurre 150g,FOOD,2,0,0,0,0,0,0,0,49,20220618,South,FRA,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,3,"47,000.00","141,000.00",0,0,"141,000.00","14,100.00","155,100.00",49,20240424,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Tyrrells Sea Salt & Cider Vinegar (40g),FOOD,20,"29,700.00","594,000.00",0,0,"594,000.00","59,400.00","653,400.00",49,20220416,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haribo Happy Cherries (80g),FOOD,6,"19,000.00","114,000.00",0,0,"114,000.00","11,400.00","125,400.00",49,20220903,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Tyrrells Sweet Chilli & Red Pepper (40g),FOOD,20,"29,700.00","594,000.00",0,0,"594,000.00","59,400.00","653,400.00",49,20220423,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,HORECA,FOOD,Fruits Rouges Frozen IQF Willamette Raspberry Whole 1kg,FOOD,2,"270,000.00","540,000.00","32,000.00",0,"476,000.00","47,600.00","523,600.00",49,20230101,South,FRA,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,30,0,0,0,0,0,0,0,49,20221107,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221111,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Kuehne Dressing Italian 250ml,FOOD,16,"57,500.00","920,000.00",0,0,"920,000.00","92,000.00","1,012,000.00",49,20230420,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Kikkoman Tasty Japan Teriyaki sauce 150ml,FOOD,3,"36,400.00","109,200.00",0,0,"109,200.00","10,920.00","120,120.00",49,20230714,South,,General Trade,TP-HCM,GT_South
+12/1/2021,HORECA,FOOD,Emborg Frozen IQF Mozzarella  Shredded (Easy stretch - Emborg),FOOD,24,"170,000.00","4,080,000.00","42,500.00",0,"3,060,000.00","306,000.00","3,366,000.00",49,20220408,South,DNK,Horeca,TP-HCM,Abbybakery
+12/1/2021,MASS,Food,"Emborg American, with Cheddar, Sliced 200g",FOOD,5,"49,200.00","246,000.00",0,7,"228,780.00","22,878.00","251,658.00",49,20220809,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,FOOD,Barilla Sauce Napoletana 200g,FOOD,12,"35,500.00","426,000.00",0,15,"362,100.00","36,210.00","398,310.00",49,20230302,South,ITA,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Lorenz Pomsticks Paprika (100g),FOOD,6,"30,700.00","184,200.00",0,0,"184,200.00","18,420.00","202,620.00",49,20220415,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,McCormick Ground Cinnamon (32g),FOOD,4,"51,600.00","206,400.00",0,0,"206,400.00","20,640.00","227,040.00",49,20240624,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,McCormick Italian Seasoning (35g),FOOD,24,"77,600.00","1,862,400.00",0,20,"1,489,920.00","148,992.00","1,638,912.00",49,20230605,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,18,"79,600.00","1,432,800.00",0,0,"1,432,800.00","143,280.00","1,576,080.00",49,20230406,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,HORECA,BEVERAGE,La Vie Glass Bottle Still 450ml,BEVERAGE,80,"23,000.00","1,840,000.00",0,0,"1,840,000.00","184,000.00","2,024,000.00",49,20220511,South,VNM,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Haribo Chamallows Pink & White (150g),FOOD,24,"34,300.00","823,200.00",0,0,"823,200.00","82,320.00","905,520.00",49,20220817,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Haribo Worms 80g,FOOD,12,"19,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20221214,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Ritter Sport Cocoa Mousse (100g),FOOD,12,"39,000.00","468,000.00",0,10,"421,200.00","42,120.00","463,320.00",49,20220513,South,,Modern Trade,TP-HCM,Kohnan
+12/1/2021,MASS,FOOD,"Merci Petits Chocolate Collection Gift Box 375g
+",FOOD,6,"231,000.00","1,386,000.00",0,0,"1,386,000.00","138,600.00","1,524,600.00",49,20220712,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,HORECA,Food,Tabasco Sauce Pepper RED (60ml),FOOD,24,"49,500.00","1,188,000.00",0,0,"1,188,000.00","118,800.00","1,306,800.00",49,20260714,South,,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221021,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,POSM,Haagen Dazs Cooler Bag - BTS Band,FOOD,3,0,0,0,0,0,0,0,49,NOEXP,South,HKG,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Lindt Excellence Intense Orange Chocolate Tablet (100g),FOOD,10,"94,000.00","940,000.00",0,0,"940,000.00","94,000.00","1,034,000.00",49,20220731,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,"La Dory French Premium Selection 278g
+",FOOD,12,"108,000.00","1,296,000.00",0,0,"1,296,000.00","129,600.00","1,425,600.00",49,20220618,South,FRA,Modern Trade,TP-HCM,MyMarket
+12/1/2021,HORECA,Food,Kikkoman Soy Sauce Fancy 18L,FOOD,1,"1,328,000.00","1,328,000.00","132,800.00",0,"1,195,200.00","119,520.00","1,314,720.00",49,20230213,South,,Horeca,TP-HCM,SushiTei
+12/1/2021,MASS,FOOD,"Haribo collection rectangle paper box 240g
+",,21,0,0,0,0,0,0,0,49,20221126,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,WINE,"Mapu white, Sauvignon Blanc/ Chardonnay (new label) (750ml)",WINE,4,"207,273.00","829,092.00",0,0,"829,092.00","82,909.20","912,001.20",49,2019,South,VND,Modern Trade,TP-HCM,BIGC
+12/1/2021,MASS,Food,Haribo Goldbears 160g,FOOD,12,"34,300.00","411,600.00",0,0,"411,600.00","41,160.00","452,760.00",49,20221208,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,FOOD,Jelly Bean Berry Burst 100g,FOOD,4,"34,000.00","136,000.00",0,0,"136,000.00","13,600.00","149,600.00",49,20230505,South,IRL,Modern Trade,TP-HCM,Vinmart
+12/1/2021,HORECA,Food,Latino Bella Olives GREEN OLIVES Tins (3kg)- V2,FOOD,1,"232,000.00","232,000.00","18,397.00",0,"213,603.00","21,360.30","234,963.30",49,20230925,South,,Horeca,TP-HCM,Bastahiro
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,10,"94,200.00","942,000.00",0,0,"942,000.00","94,200.00","1,036,200.00",49,20230525,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,Westgold Frozen Salted Butter 250g,FOOD,40,"60,400.00","2,416,000.00",0,0,"2,416,000.00","241,600.00","2,657,600.00",49,20221231,South,NZL,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Tyrrells Sea Salt & Cracked Black Pepper (40g),FOOD,20,"29,700.00","594,000.00",0,0,"594,000.00","59,400.00","653,400.00",49,20220416,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Latino Bella Pomace Olive Oil (1L) GREEN BOTTLE,FOOD,2,"181,000.00","362,000.00",0,0,"362,000.00","36,200.00","398,200.00",49,20240729,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,HORECA,FOOD,Emborg Frozen Pizza Topping  Block,FOOD,345,"130,000.00","44,850,000.00",0,0,"44,850,000.00","4,485,000.00","49,335,000.00",49,20220427,South,DNK,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Pep. Farm Double Nantucket (220g),FOOD,20,"89,000.00","1,780,000.00",0,0,"1,780,000.00","178,000.00","1,958,000.00",49,20220712,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,FOOD,Ritter Sport Fine Dark Chocolate 74% Cocoa 100g,FOOD,36,"43,000.00","1,548,000.00",0,0,"1,548,000.00","154,800.00","1,702,800.00",49,20221006,South,DEU,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,BEVERAGE,Teisseire Syrup Lime 70cl,BEVERAGE,2,"150,000.00","300,000.00",0,0,"300,000.00","30,000.00","330,000.00",49,20240602,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,Werther's Original Creamy Filling 80g,FOOD,12,"22,000.00","264,000.00",0,0,"264,000.00","26,400.00","290,400.00",49,20220602,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,"Emborg Whipped Cream, 30%, Sweetened, in spray can 250g",FOOD,3,"74,900.00","224,700.00",0,0,"224,700.00","22,470.00","247,170.00",49,20220730,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,Latino Bella Extra Virgin OLIVE OIL (500ml) GREEN BOTTLE,FOOD,2,"149,000.00","298,000.00",0,0,"298,000.00","29,800.00","327,800.00",49,20240825,South,,Modern Trade,TP-HCM,Jmart
+12/1/2021,MASS,POSM,Merci Paper Bag 2021,FOOD,6,0,0,0,0,0,0,0,49,NOEXP,South,VNM,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,"Familia Swiss choco bits 375g
+",FOOD,3,"167,500.00","502,500.00",0,0,"502,500.00","50,250.00","552,750.00",49,20230401,South,CHE,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Ritter Sport Peppermint (100g),FOOD,10,"39,000.00","390,000.00",0,15,"331,500.00","33,150.00","364,650.00",49,20220607,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230406,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Tabasco Sauce Pepper RED (60ml),FOOD,4,"53,400.00","213,600.00",0,0,"213,600.00","21,360.00","234,960.00",49,20260714,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,NONFOOD,Duracell Coppertop Alkaline 9V1,,8,"38,984.00","311,872.00",0,0,"311,872.00","31,187.20","343,059.20",49,20240131,South,CHN,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,FOOD,Barilla Pasta Spaghetti mini 200g,FOOD,84,"18,000.00","1,512,000.00",0,0,"1,512,000.00","151,200.00","1,663,200.00",49,20240201,South,TUR,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Barilla Pasta Linguine - 500g,FOOD,10,"47,000.00","470,000.00",0,0,"470,000.00","47,000.00","517,000.00",49,20240213,South,,Modern Trade,TP-HCM,Jmart
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,25,"47,000.00","1,175,000.00",0,25,"881,250.00","88,125.00","969,375.00",49,20240424,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,2,"19,000.00","38,000.00",0,0,"38,000.00","3,800.00","41,800.00",49,20221107,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haagen Dazs Belgian Chocolate Minicup (100ml),FOOD,12,"57,000.00","684,000.00",0,0,"684,000.00","68,400.00","752,400.00",49,20220723,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,La Boulangere Organic Wholemeal Loaf (500g),,2,"104,000.00","208,000.00",0,0,"208,000.00","20,800.00","228,800.00",49,20220819,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,FOOD,Barilla Sauce Bolognese 200g,FOOD,5,"46,300.00","231,500.00",0,0,"231,500.00","23,150.00","254,650.00",49,20230103,South,ITA,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Special Fragrance (600ml),FOOD,6,"76,500.00","459,000.00",0,0,"459,000.00","45,900.00","504,900.00",49,20230328,South,,Modern Trade,TP-HCM,Jmart
+12/1/2021,MASS,Food,Lindt Lindor Assorted Box (168g),FOOD,10,"153,000.00","1,530,000.00",0,0,"1,530,000.00","153,000.00","1,683,000.00",49,20220705,South,CHE,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Barilla Sauce Napoletana 200g,FOOD,12,"35,500.00","426,000.00",0,15,"362,100.00","36,210.00","398,310.00",49,20230302,South,ITA,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,"Familia Cereals Organic Original Bircher Muesli 450g
+",FOOD,2,"156,900.00","313,800.00",0,0,"313,800.00","31,380.00","345,180.00",49,20221023,South,CHE,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Kikkoman Teriyaki Thick 290g,FOOD,24,"92,100.00","2,210,400.00",0,0,"2,210,400.00","221,040.00","2,431,440.00",49,20240831,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Lindt Excellence Intense Mint Chocolate Tablet (100g),FOOD,10,"94,000.00","940,000.00",0,0,"940,000.00","94,000.00","1,034,000.00",49,20220609,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,POSM,Paper bag for La Dory,FOOD,12,0,0,0,0,0,0,0,49,NOEXP,South,VNM,Modern Trade,TP-HCM,MyMarket
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,36,"79,600.00","2,865,600.00",0,15,"2,435,760.00","243,576.00","2,679,336.00",49,20230406,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,McCormick Oregano Leaves  (10g),FOOD,20,"33,600.00","672,000.00",0,15,"571,200.00","57,120.00","628,320.00",49,20240525,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Pep. Farm Fruit Verona STRAWBERRY 6.75oz (191 gr),FOOD,6,"78,000.00","468,000.00",0,0,"468,000.00","46,800.00","514,800.00",49,20220623,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221021,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Barilla Pasta Fusilli No.98 (500g),FOOD,24,"49,500.00","1,188,000.00",0,15,"1,009,800.00","100,980.00","1,110,780.00",49,20240313,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Haribo Goldbears (30g),FOOD,24,"6,900.00","165,600.00",0,0,"165,600.00","16,560.00","182,160.00",49,20221121,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haagen Dazs Green Tea Pint (473ml),FOOD,12,"206,500.00","2,478,000.00",0,0,"2,478,000.00","247,800.00","2,725,800.00",49,20221003,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,beverage,Perrier Lemon 25cl Slimcan,BEVERAGE,100,"21,300.00","2,130,000.00",0,0,"2,130,000.00","213,000.00","2,343,000.00",49,20221204,South,FRA,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,5,"47,000.00","235,000.00",0,25,"176,250.00","17,625.00","193,875.00",49,20240424,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Goldbears (30g),FOOD,48,"6,900.00","331,200.00",0,0,"331,200.00","33,120.00","364,320.00",49,20221121,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,HORECA,FOOD,Westgold Chilled UHT Whipping Cream 1L,,24,"102,600.00","2,462,400.00","12,600.00",0,"2,160,000.00","216,000.00","2,376,000.00",49,20220203,South,NZL,Horeca,TP-HCM,Horeca_south
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230406,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,12,"79,600.00","955,200.00",0,15,"811,920.00","81,192.00","893,112.00",49,20230406,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,McCormick Italian Seasoning (35g),FOOD,4,"77,600.00","310,400.00",0,0,"310,400.00","31,040.00","341,440.00",49,20230605,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Latino Bella Extra Virgin OLIVE OIL (250ml) GREEN BOTTLE,FOOD,24,"81,500.00","1,956,000.00",0,0,"1,956,000.00","195,600.00","2,151,600.00",49,20240721,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221111,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Barilla Pasta Spaghettoni (500g),FOOD,25,"47,000.00","1,175,000.00",0,0,"1,175,000.00","117,500.00","1,292,500.00",49,20240317,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,FOOD,Ritter Sport Fine Dark Chocolate 74% Cocoa 100g,FOOD,50,"43,000.00","2,150,000.00",0,0,"2,150,000.00","215,000.00","2,365,000.00",49,20221006,South,DEU,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Ritter Sport Dark Whole Hazelnuts,FOOD,10,"43,000.00","430,000.00",0,0,"430,000.00","43,000.00","473,000.00",49,20220817,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Sauce Napoletana (400g),FOOD,12,"79,600.00","955,200.00",0,0,"955,200.00","95,520.00","1,050,720.00",49,20230403,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,HORECA,FOOD,Fruits Rouges Frozen Wild Blueberry 1kg,FOOD,1,"280,000.00","280,000.00","35,000.00",0,"245,000.00","24,500.00","269,500.00",49,20230427,South,FRA,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,240,"19,000.00","4,560,000.00",0,7,"4,240,800.00","424,080.00","4,664,880.00",49,20221107,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Ricola Cranberry Carton Box (40g),FOOD,20,"24,200.00","484,000.00",0,0,"484,000.00","48,400.00","532,400.00",49,20230519,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,FOOD,Jelly Bean 36 Huge Flavours 100g,FOOD,9,"34,000.00","306,000.00",0,0,"306,000.00","30,600.00","336,600.00",49,20230405,South,IRL,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,POSM,Paper Bag Lindt,FOOD,15,0,0,0,0,0,0,0,49,NOEXP,South,VNM,Modern Trade,TP-HCM,Metro
+12/1/2021,HORECA,Food,CIRIO Whole peeled tomato 2500g,FOOD,90,"97,600.00","8,784,000.00","9,760.00",0,"7,905,600.00","790,560.00","8,696,160.00",49,20231231,South,,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Bonne Maman Jam Strawberry (370g),FOOD,2,"114,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20230706,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti Integrale–500g,FOOD,48,"47,000.00","2,256,000.00",0,0,"2,256,000.00","225,600.00","2,481,600.00",49,20221201,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,FOOD,La Boulangere Sliced Brioche 500g,FOOD,3,"86,852.00","260,556.00",0,0,"260,556.00","26,055.60","286,611.60",49,20230212,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Haribo Goldbears 160g,FOOD,12,"34,300.00","411,600.00",0,0,"411,600.00","41,160.00","452,760.00",49,20221208,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Ritter Sport Dark Whole Hazelnuts,FOOD,78,"43,000.00","3,354,000.00",0,0,"3,354,000.00","335,400.00","3,689,400.00",49,20220817,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,McCormick Black Peppercorn Adjustable (35g),FOOD,10,"81,200.00","812,000.00",0,0,"812,000.00","81,200.00","893,200.00",49,20240907,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Haagen Dazs Green Tea Minicup (100ml),FOOD,4,"57,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20221006,South,,Modern Trade,TP-HCM,CircleK_South
+12/1/2021,MASS,Food,Lindt Excellence Sea Salt Chocolate Tablet (100g),FOOD,6,"94,000.00","564,000.00",0,0,"564,000.00","56,400.00","620,400.00",49,20220516,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Goldbears (30g),FOOD,18,"6,900.00","124,200.00",0,0,"124,200.00","12,420.00","136,620.00",49,20221121,South,,Modern Trade,TP-HCM,Kohnan
+12/1/2021,MASS,Food,Latino Bella Garlic Stuffed Olives (235g),FOOD,6,"49,000.00","294,000.00",0,7,"273,420.00","27,342.00","300,762.00",49,20240408,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haagen Dazs Strawberry Minicup (100ml),FOOD,3,"57,000.00","171,000.00",0,0,"171,000.00","17,100.00","188,100.00",49,20220829,South,,Modern Trade,TP-HCM,CircleK_South
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,48,"19,000.00","912,000.00",0,0,"912,000.00","91,200.00","1,003,200.00",49,20221111,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,6,"47,000.00","282,000.00",0,25,"211,500.00","21,150.00","232,650.00",49,20240424,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,48,"19,000.00","912,000.00",0,0,"912,000.00","91,200.00","1,003,200.00",49,20221111,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Loacker Quadratini Tiramisu (110g),FOOD,1,0,0,0,0,0,0,0,49,20221126,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Lindt Lindor Milk Crystal Heart Tin 96g,FOOD,20,"101,000.00","2,020,000.00",0,10,"1,818,000.00","181,800.00","1,999,800.00",49,20220726,South,CHE,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,FOOD,La Boulangere 8 Pains au Chocolat 360g,FOOD,3,"88,536.00","265,608.00",0,0,"265,608.00","26,560.80","292,168.80",49,20220814,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,"Emborg Frozen Mozzarella, Portion, F.I.D.M. 40% 200g",FOOD,11,"64,944.00","714,384.00",0,0,"714,384.00","71,438.40","785,822.40",49,20220817,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,beverage,Perrier Lime  25cl Slimcan,BEVERAGE,10,"21,300.00","213,000.00",0,0,"213,000.00","21,300.00","234,300.00",49,20221116,South,FRA,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Kuehne Dressing American 250ml,FOOD,6,"57,500.00","345,000.00",0,0,"345,000.00","34,500.00","379,500.00",49,20230129,South,,Modern Trade,TP-HCM,Jmart
+12/1/2021,MASS,POSM,Haagen Dazs Cooler Bag - BTS Band,FOOD,12,0,0,0,0,0,0,0,49,NOEXP,South,HKG,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,FOOD,Haribo Grapes 80g,FOOD,240,"19,000.00","4,560,000.00",0,7,"4,240,800.00","424,080.00","4,664,880.00",49,20230212,South,TUR,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Latino Bella Pitted Green Olives (450g),FOOD,2,"66,000.00","132,000.00",0,0,"132,000.00","13,200.00","145,200.00",49,20240720,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221107,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,FOOD,La Boulangere Plain Crustless Sandwich Bread (500g),,2,"92,700.00","185,400.00",0,0,"185,400.00","18,540.00","203,940.00",49,20230203,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,McCormick Steak Spice (60g),FOOD,48,"58,300.00","2,798,400.00",0,20,"2,238,720.00","223,872.00","2,462,592.00",49,20230510,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,FOOD,Jelly Bean 36 Huge Flavours 150g,FOOD,50,"55,000.00","2,750,000.00",0,5,"2,612,500.00","261,250.00","2,873,750.00",49,20230301,South,IRL,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Kuehne Gourmet Steak Sauce (250ml),FOOD,2,"39,800.00","79,600.00",0,0,"79,600.00","7,960.00","87,560.00",49,20230628,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,McCormick Basil Leaves  (10g),FOOD,12,"34,700.00","416,400.00",0,20,"333,120.00","33,312.00","366,432.00",49,20240525,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,McCormick Rosemary Leaves  (18g),FOOD,10,"99,800.00","998,000.00",0,0,"998,000.00","99,800.00","1,097,800.00",49,20240506,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,FOOD,Merci Petits Milk & Cream Collection 125g,FOOD,12,"55,000.00","660,000.00",0,0,"660,000.00","66,000.00","726,000.00",49,20220630,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Lorenz Naturals Rosemary (100g),FOOD,24,"40,900.00","981,600.00",0,0,"981,600.00","98,160.00","1,079,760.00",49,20220605,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,McCormick Basil Leaves  (10g),FOOD,20,"34,700.00","694,000.00",0,15,"589,900.00","58,990.00","648,890.00",49,20240525,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Pate Royal Pork Rillettes (180g),FOOD,3,"125,000.00","375,000.00",0,0,"375,000.00","37,500.00","412,500.00",49,20260630,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,BEVERAGE,Teisseire Syrup Green Mint 70cl,BEVERAGE,2,"150,000.00","300,000.00",0,0,"300,000.00","30,000.00","330,000.00",49,20240324,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Happy Cola 160g,FOOD,24,"34,300.00","823,200.00",0,0,"823,200.00","82,320.00","905,520.00",49,20221009,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Lorenz Saltletts Brezel (90g),FOOD,14,"27,600.00","386,400.00",0,0,"386,400.00","38,640.00","425,040.00",49,20220823,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haagen Dazs Macadamia Nut Minicup (100ml),FOOD,12,0,0,0,0,0,0,0,49,20220818,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,6,0,0,0,0,0,0,0,49,20240424,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,FOOD,Jelly Bean 36 Huge Flavours 150g,FOOD,12,"55,000.00","660,000.00",0,0,"660,000.00","66,000.00","726,000.00",49,20230301,South,IRL,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haagen Dazs Strawberry Pint (473ml),FOOD,16,"206,500.00","3,304,000.00",0,0,"3,304,000.00","330,400.00","3,634,400.00",49,20220926,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Barilla Pasta Linguine - 500g,FOOD,75,"47,000.00","3,525,000.00",0,0,"3,525,000.00","352,500.00","3,877,500.00",49,20240213,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,La Boulangere 10 Milk Breads with chocolate chips 350g,FOOD,2,"80,521.00","161,042.00",0,0,"161,042.00","16,104.20","177,146.20",49,20220821,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,NONFOOD,Duracell Coppertop Alkaline AA2,,12,"21,560.00","258,720.00",0,0,"258,720.00","25,872.00","284,592.00",49,20291030,South,CHN,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Pep. Farm Choc Chunk CHESAPEAKE (204g),FOOD,3,"89,000.00","267,000.00",0,0,"267,000.00","26,700.00","293,700.00",49,20220621,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Kikkoman Teriyaki Honey & Soy (250ml),FOOD,6,"80,800.00","484,800.00",0,0,"484,800.00","48,480.00","533,280.00",49,20240925,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Lorenz Crunchips Salted (100g),FOOD,25,"31,700.00","792,500.00",0,0,"792,500.00","79,250.00","871,750.00",49,20220523,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Pasta Gnocchi No.85 (500g),FOOD,2,"49,500.00","99,000.00",0,0,"99,000.00","9,900.00","108,900.00",49,20240301,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,Haagen-Dazs Summer Berries & Cream 100ml,FOOD,3,"57,000.00","171,000.00",0,0,"171,000.00","17,100.00","188,100.00",49,20220721,South,,Modern Trade,TP-HCM,CircleK_South
+12/1/2021,MASS,Food,Lorenz Naturals Mild Paprika (100g),FOOD,6,"40,900.00","245,400.00",0,0,"245,400.00","24,540.00","269,940.00",49,20220430,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Goldbears 200g,FOOD,20,"51,900.00","1,038,000.00",0,0,"1,038,000.00","103,800.00","1,141,800.00",49,20221215,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,McCormick Garlic Salt (70g),FOOD,4,"50,100.00","200,400.00",0,0,"200,400.00","20,040.00","220,440.00",49,20240428,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Kuehne Balsamissimo Creamy Mild 215ml,FOOD,16,"113,800.00","1,820,800.00",0,0,"1,820,800.00","182,080.00","2,002,880.00",49,20230706,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,La Boulangere 6 Chocolate Chip Brioche Buns 210g,FOOD,2,"79,816.00","159,632.00",0,0,"159,632.00","15,963.20","175,595.20",49,20220717,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Barilla Sauce Napoletana (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230403,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,Lorenz Crunchips Paprika (100g),FOOD,48,"31,700.00","1,521,600.00",0,0,"1,521,600.00","152,160.00","1,673,760.00",49,20220607,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haribo Worms 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221125,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,FOOD,Werther's Original Cream Candies 90g,FOOD,12,"22,000.00","264,000.00",0,0,"264,000.00","26,400.00","290,400.00",49,20221113,South,DEU,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,BEVERAGE,English Tea Shop Organic Superberries 20ct (30g),BEVERAGE,4,"90,000.00","360,000.00",0,0,"360,000.00","36,000.00","396,000.00",49,20240819,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Pep. Farm Goldfish CHEDDAR 8.6oz (187 gr),FOOD,4,0,0,0,0,0,0,0,49,20220726,South,,General Trade,TP-HCM,MWH_South
+12/1/2021,MASS,FOOD,La Boulangere Plaited Brioche 400g,FOOD,2,"105,688.00","211,376.00",0,0,"211,376.00","21,137.60","232,513.60",49,20230110,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Ritter Sport Whole Almonds,FOOD,42,"43,000.00","1,806,000.00",0,0,"1,806,000.00","180,600.00","1,986,600.00",49,20220818,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Dispenser (150ml),FOOD,6,"57,100.00","342,600.00",0,0,"342,600.00","34,260.00","376,860.00",49,20241011,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haagen Dazs Cookies & Cream Minicup (100ml),FOOD,12,"57,000.00","684,000.00",0,0,"684,000.00","68,400.00","752,400.00",49,20220822,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Maille Modena Balsamic Vinegar (500ml),FOOD,2,"115,500.00","231,000.00",0,0,"231,000.00","23,100.00","254,100.00",49,20241014,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Special Fragrance (600ml),FOOD,2,"76,500.00","153,000.00",0,0,"153,000.00","15,300.00","168,300.00",49,20230328,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Latino Bella Extra Virgin OLIVE OIL (500ml) GREEN BOTTLE,FOOD,12,"149,000.00","1,788,000.00",0,0,"1,788,000.00","178,800.00","1,966,800.00",49,20240825,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,HORECA,BEVERAGE,La Vie Glass Bottle Still 450ml,BEVERAGE,100,"23,000.00","2,300,000.00","12,810.00",0,"1,019,000.00","101,900.00","1,120,900.00",49,20220511,South,VNM,Horeca,TP-HCM,PaccGroup
+12/1/2021,MASS,Food,Haagen Dazs Cookies & Cream Minicup (100ml),FOOD,4,"57,000.00","228,000.00",0,2,"223,440.00","22,344.00","245,784.00",49,20220822,South,,Modern Trade,TP-HCM,FamilyMart
+12/1/2021,MASS,Food,Ritter Sport Rum Raisins Hazelnuts Chocolate 100g,FOOD,18,"39,000.00","702,000.00",0,10,"631,800.00","63,180.00","694,980.00",49,20220512,South,,Modern Trade,TP-HCM,Kohnan
+12/1/2021,MASS,FOOD,Jelly Bean tri-pack limited paint pot 9x14.5g,FOOD,24,"95,000.00","2,280,000.00",0,0,"2,280,000.00","228,000.00","2,508,000.00",49,20230721,South,IRL,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Bonne Maman Jam Strawberry (225g),FOOD,6,"80,000.00","480,000.00",0,7,"446,400.00","44,640.00","491,040.00",49,20230715,South,FRA,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Lorenz Pomsticks Sour Cream (100g),FOOD,6,"30,700.00","184,200.00",0,0,"184,200.00","18,420.00","202,620.00",49,20220505,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,McCormick Garlic Salt (70g),FOOD,24,"50,100.00","1,202,400.00",0,20,"961,920.00","96,192.00","1,058,112.00",49,20240428,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Kuehne French Dressing (250ml),FOOD,16,"57,500.00","920,000.00",0,0,"920,000.00","92,000.00","1,012,000.00",49,20230123,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Kikkoman Soy Sauce 43% Less Malt Mild (600ml),FOOD,4,"99,900.00","399,600.00",0,0,"399,600.00","39,960.00","439,560.00",49,20230302,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Loacker Quadratini Napolitaner (125g),FOOD,1,0,0,0,0,0,0,0,49,20221030,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,6,"94,200.00","565,200.00",0,0,"565,200.00","56,520.00","621,720.00",49,20230525,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Dispenser (150ml),FOOD,48,"57,100.00","2,740,800.00",0,15,"2,329,680.00","232,968.00","2,562,648.00",49,20241011,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,"Emborg Frozen Mozzarella, Portion, F.I.D.M. 40% 200g",FOOD,36,"73,800.00","2,656,800.00",0,0,"2,656,800.00","265,680.00","2,922,480.00",49,20220817,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,FOOD,Emborg Perfect Slices 200g,FOOD,6,"36,600.00","219,600.00",0,0,"219,600.00","21,960.00","241,560.00",49,20220809,South,DNK,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,Kikkoman Tasty Japan Teriyaki sauce 150ml,FOOD,12,"36,400.00","436,800.00",0,0,"436,800.00","43,680.00","480,480.00",49,20230714,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Pep. Farm Wafers Chocolate Hazelnut (382g),FOOD,12,0,0,0,0,0,0,0,49,20221004,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,FOOD,Merci Petits Chocolate Collection 125g,FOOD,12,"55,000.00","660,000.00",0,0,"660,000.00","66,000.00","726,000.00",49,20220712,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Wine,Mouton Cadet White (750ml),WINE,4,"476,364.00","1,905,456.00",0,0,"1,905,456.00","190,545.60","2,096,001.60",49,2020,South,,Modern Trade,TP-HCM,BIGC
+12/1/2021,MASS,Food,Haagen Dazs Mango Raspberry Minicup (100ml),FOOD,10,"57,000.00","570,000.00",0,0,"570,000.00","57,000.00","627,000.00",49,20221012,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Dispenser (150ml),FOOD,12,"57,100.00","685,200.00",0,0,"685,200.00","68,520.00","753,720.00",49,20241011,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,3,"19,000.00","57,000.00",0,0,"57,000.00","5,700.00","62,700.00",49,20221021,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,HORECA,Food,Ortalli White Wine Vinegar (1L),FOOD,1,"88,000.00","88,000.00",0,0,"88,000.00","8,800.00","96,800.00",49,20260228,South,,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Haagen Dazs Belgian Chocolate Minicup (100ml),FOOD,12,"57,000.00","684,000.00",0,0,"684,000.00","68,400.00","752,400.00",49,20220723,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haagen Dazs Cookies & Cream Minicup (100ml),FOOD,12,"57,000.00","684,000.00",0,0,"684,000.00","68,400.00","752,400.00",49,20220822,South,,General Trade,TP-HCM,GT_South
+12/1/2021,HORECA,FOOD,Emborg Frozen Brie Cheese Mon Ami 200g,FOOD,1,"70,000.00","70,000.00",0,0,"70,000.00","7,000.00","77,000.00",49,20220408,South,DNK,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,60,"94,200.00","5,652,000.00",0,0,"5,652,000.00","565,200.00","6,217,200.00",49,20230525,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Barilla Pasta Lasagna No.199 (500g),FOOD,15,"103,500.00","1,552,500.00",0,0,"1,552,500.00","155,250.00","1,707,750.00",49,20230225,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Pep. Farm Fruit Verona STRAWBERRY 6.75oz (191 gr),FOOD,5,"78,000.00","390,000.00",0,7,"362,700.00","36,270.00","398,970.00",49,20220623,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,"Ricola Swiss Herb Candy Tet Gift Box 100g
+",FOOD,60,"84,000.00","5,040,000.00",0,10,"4,536,000.00","453,600.00","4,989,600.00",49,20230518,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,12,"94,200.00","1,130,400.00",0,0,"1,130,400.00","113,040.00","1,243,440.00",49,20230430,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Latino Bella Extra Virgin OLIVE OIL (500ml) GREEN BOTTLE,FOOD,48,"149,000.00","7,152,000.00",0,0,"7,152,000.00","715,200.00","7,867,200.00",49,20240825,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,"Emborg Milk Full Cream UHT, 3,5% Fat 1L (Poland)",FOOD,36,"29,000.00","1,044,000.00",0,30,"730,800.00","73,080.00","803,880.00",49,20220624,South,DNK,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Ritter Sport Chocolate Cubes Selection (24x8g),FOOD,12,"135,000.00","1,620,000.00",0,0,"1,620,000.00","162,000.00","1,782,000.00",49,20220519,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221021,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Fancy (250ml),FOOD,24,"69,400.00","1,665,600.00",0,15,"1,415,760.00","141,576.00","1,557,336.00",49,20240909,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,FOOD,Lindt Lindor Vintage London Tin 120g,FOOD,48,"121,000.00","5,808,000.00",0,0,"5,808,000.00","580,800.00","6,388,800.00",49,20220705,South,CHE,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Ritter Sport Chocolate Cubes Selection (24x8g),FOOD,10,"135,000.00","1,350,000.00",0,0,"1,350,000.00","135,000.00","1,485,000.00",49,20220519,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti Integrale–500g,FOOD,24,"47,000.00","1,128,000.00",0,0,"1,128,000.00","112,800.00","1,240,800.00",49,20221201,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Barilla Sauce Olive (400g),FOOD,6,"94,200.00","565,200.00",0,0,"565,200.00","56,520.00","621,720.00",49,20230305,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,FOOD,Ritter Sport Chocolate Mini Collection (250g),FOOD,128,"149,000.00","19,072,000.00",0,7,"17,736,960.00","1,773,696.00","19,510,656.00",49,20220630,South,US,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Lorenz Naturals Rosemary (100g),FOOD,48,"40,900.00","1,963,200.00",0,0,"1,963,200.00","196,320.00","2,159,520.00",49,20220727,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Kikkoman Teriyaki Honey & Soy (250ml),FOOD,36,"80,800.00","2,908,800.00",0,0,"2,908,800.00","290,880.00","3,199,680.00",49,20240925,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haagen Dazs Green Tea Pint (473ml),FOOD,2,"206,500.00","413,000.00",0,2,"404,740.00","40,474.00","445,214.00",49,20221003,South,,Modern Trade,TP-HCM,FamilyMart
+12/1/2021,MASS,WINE,"Mapu red, Cabernet Sauvignon/ Carmenere (new label) (750ml)",WINE,12,"207,273.00","2,487,276.00",0,0,"2,487,276.00","248,727.60","2,736,003.60",49,2019,South,VND,Modern Trade,TP-HCM,Coopmart
+12/1/2021,HORECA,Food,Barilla Pasta Spaghetti no.5 box 1kg,FOOD,20,"55,000.00","1,100,000.00","19,500.00",0,"710,000.00","71,000.00","781,000.00",49,20231101,South,,Horeca,TP-HCM,QSRCompany
+12/1/2021,MASS,BEVERAGE,English Tea Shop Organic Earl Grey Tea 20ct (40g),BEVERAGE,4,"90,000.00","360,000.00",0,0,"360,000.00","36,000.00","396,000.00",49,20240819,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,McCormick Rosemary Leaves  (18g),FOOD,20,"99,800.00","1,996,000.00",0,15,"1,696,600.00","169,660.00","1,866,260.00",49,20240506,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,"Emborg Frozen Butter, unsalted, 82% fat 200g",FOOD,6,"72,400.00","434,400.00",0,0,"434,400.00","43,440.00","477,840.00",49,20230225,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haribo Goldbears 160g,FOOD,12,"34,300.00","411,600.00",0,0,"411,600.00","41,160.00","452,760.00",49,20221208,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,FOOD,"Emborg Frozen Cook & Bake, Buttery, 80% fat, 200g",FOOD,40,"31,300.00","1,252,000.00",0,0,"1,252,000.00","125,200.00","1,377,200.00",49,20230220,South,DNK,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,BEVERAGE,Teisseire Syrup Green Mint 70cl,BEVERAGE,6,"150,000.00","900,000.00",0,2,"882,000.00","88,200.00","970,200.00",49,20240324,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Fancy (250ml),FOOD,2,"69,400.00","138,800.00",0,0,"138,800.00","13,880.00","152,680.00",49,20240909,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,BEVERAGE,Evian Water Glass Bottle (330ml),BEVERAGE,200,"37,700.00","7,540,000.00",0,0,"7,540,000.00","754,000.00","8,294,000.00",49,20230331,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,McCormick Italian Seasoning (35g),FOOD,12,"77,600.00","931,200.00",0,20,"744,960.00","74,496.00","819,456.00",49,20230605,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Haribo Grapes 80g,FOOD,24,"19,000.00","456,000.00",0,20,"364,800.00","36,480.00","401,280.00",49,20230212,South,TUR,Modern Trade,TP-HCM,Kohnan
+12/1/2021,MASS,Food,Ricola Mountain Mint Carton Box (40g),FOOD,2,"24,200.00","48,400.00",0,0,"48,400.00","4,840.00","53,240.00",49,20230518,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Goldbears 160g,FOOD,12,"34,300.00","411,600.00",0,0,"411,600.00","41,160.00","452,760.00",49,20221208,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Merci Finest Selection Chocolate 250g,FOOD,20,"110,000.00","2,200,000.00",0,5,"2,090,000.00","209,000.00","2,299,000.00",49,20220809,South,DEU,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,12,"19,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20221021,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haribo Goldbears (30g),FOOD,48,"6,900.00","331,200.00",0,0,"331,200.00","33,120.00","364,320.00",49,20221121,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Barilla Pasta Fusilli No.98 (500g),FOOD,1,"49,500.00","49,500.00",0,0,"49,500.00","4,950.00","54,450.00",49,20240313,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,HORECA,Food,Ortalli Red Wine Vinegar (1L),FOOD,1,"88,000.00","88,000.00",0,0,"88,000.00","8,800.00","96,800.00",49,20260228,South,,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,FOOD,Werther's Original Creamy Filling 80g,FOOD,12,"22,000.00","264,000.00",0,0,"264,000.00","26,400.00","290,400.00",49,20220602,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,La Boulangere Plain Crustless Sandwich Bread (500g),,3,"92,700.00","278,100.00",0,0,"278,100.00","27,810.00","305,910.00",49,20230203,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Latino Bella Garlic Stuffed Olives (235g),FOOD,12,"49,000.00","588,000.00",0,0,"588,000.00","58,800.00","646,800.00",49,20240408,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Westgold Frozen Salted Butter 250g,FOOD,15,"60,400.00","906,000.00",0,0,"906,000.00","90,600.00","996,600.00",49,20221231,South,NZL,Modern Trade,TP-HCM,Satra
+12/1/2021,MASS,Food,Kuehne Dressing American 250ml,FOOD,3,"57,500.00","172,500.00",0,0,"172,500.00","17,250.00","189,750.00",49,20230129,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,"Emborg Milk Full Cream UHT, 3,5% Fat 1L (Poland)",FOOD,240,"29,000.00","6,960,000.00",0,30,"4,872,000.00","487,200.00","5,359,200.00",49,20220624,South,DNK,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,McCormick Basil Leaves  (10g),FOOD,6,"34,700.00","208,200.00",0,0,"208,200.00","20,820.00","229,020.00",49,20240525,South,,Modern Trade,TP-HCM,Jmart
+12/1/2021,MASS,FOOD,Westgold Frozen Salted Butter 250g,FOOD,20,"60,400.00","1,208,000.00",0,0,"1,208,000.00","120,800.00","1,328,800.00",49,20221231,South,NZL,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,FOOD,Werther's Original Cream Candies 90g,FOOD,12,"22,000.00","264,000.00",0,0,"264,000.00","26,400.00","290,400.00",49,20221113,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Sauce Olive (400g),FOOD,6,"94,200.00","565,200.00",0,0,"565,200.00","56,520.00","621,720.00",49,20230305,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Pep. Farm Distinctive Butter Chessman (206g),FOOD,24,"78,000.00","1,872,000.00",0,0,"1,872,000.00","187,200.00","2,059,200.00",49,20220827,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,FOOD,Jelly Bean Berry Burst 200g,FOOD,1,"65,000.00","65,000.00",0,0,"65,000.00","6,500.00","71,500.00",49,20230414,South,IRL,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,FOOD,Haribo Grapes 80g,FOOD,168,"19,000.00","3,192,000.00",0,0,"3,192,000.00","319,200.00","3,511,200.00",49,20230212,South,TUR,Modern Trade,TP-HCM,BachHoaXanh
+12/1/2021,MASS,Food,Barilla Pasta Fusilli Integrale – 500g,FOOD,45,"52,800.00","2,376,000.00",0,15,"2,019,600.00","201,960.00","2,221,560.00",49,20221201,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Goldbears 160g,FOOD,24,"34,300.00","823,200.00",0,0,"823,200.00","82,320.00","905,520.00",49,20221208,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,McCormick Steak Spice (60g),FOOD,4,"58,300.00","233,200.00",0,0,"233,200.00","23,320.00","256,520.00",49,20230510,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Ritter Sport Dark Chocolate 50% (100g),FOOD,12,"39,000.00","468,000.00",0,15,"397,800.00","39,780.00","437,580.00",49,20221014,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Kuehne Dressing Thousand Islands 250ml,FOOD,8,"57,500.00","460,000.00",0,0,"460,000.00","46,000.00","506,000.00",49,20230123,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Loacker Quadratini Napolitaner (125g),FOOD,12,"65,000.00","780,000.00",0,0,"780,000.00","78,000.00","858,000.00",49,20221030,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,12,"19,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20221107,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,HORECA,BEVERAGE,Teisseire Syrup Peach 70cl,BEVERAGE,90,"195,000.00","17,550,000.00",0,0,"17,550,000.00","1,755,000.00","19,305,000.00",49,20230914,South,,Horeca,TP-HCM,Givral
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,120,"19,000.00","2,280,000.00",0,0,"2,280,000.00","228,000.00","2,508,000.00",49,20221205,South,,Modern Trade,TP-HCM,BachHoaXanh
+12/1/2021,MASS,Food,Loacker Quadratini Dark Chocolate (125g),FOOD,12,"65,000.00","780,000.00",0,0,"780,000.00","78,000.00","858,000.00",49,20221208,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haagen Dazs Macadamia Nut Pint (473ml),FOOD,4,"206,500.00","826,000.00",0,0,"826,000.00","82,600.00","908,600.00",49,20220727,South,,Modern Trade,TP-HCM,CircleK_South
+12/1/2021,MASS,Food,Pep. Farm Choc Chunk CHESAPEAKE (204g),FOOD,3,0,0,0,0,0,0,0,49,20220621,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haribo Happy Cola Sour Fresh (80g),FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221126,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,POSM,Merci Paper Bag 2021,FOOD,6,0,0,0,0,0,0,0,49,NOEXP,South,VNM,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,75,"47,000.00","3,525,000.00",0,25,"2,643,750.00","264,375.00","2,908,125.00",49,20240424,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Ritter Sport Rum Raisins Hazelnuts Chocolate 100g,FOOD,10,"39,000.00","390,000.00",0,15,"331,500.00","33,150.00","364,650.00",49,20220512,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Sauce Pesto Genovese 190g,FOOD,24,"113,100.00","2,714,400.00",0,0,"2,714,400.00","271,440.00","2,985,840.00",49,20221030,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Lindt Swiss Classic Milk Almond Chocolate Tablet (100g),FOOD,12,"78,000.00","936,000.00",0,7,"870,480.00","87,048.00","957,528.00",49,20220610,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,48,"19,000.00","912,000.00",0,0,"912,000.00","91,200.00","1,003,200.00",49,20221021,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,POSM,Paper bag for Pep Farm,FOOD,36,0,0,0,0,0,0,0,49,NOEXP,South,VNM,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Lindt Swiss Luxury selection 195g,FOOD,6,"422,000.00","2,532,000.00",0,0,"2,532,000.00","253,200.00","2,785,200.00",49,20220601,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,"Emborg Frozen Butter, salted, 80% fat 200g",FOOD,6,"72,400.00","434,400.00",0,0,"434,400.00","43,440.00","477,840.00",49,20230226,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Barilla Pasta Spaghettoni (500g),FOOD,6,"47,000.00","282,000.00",0,0,"282,000.00","28,200.00","310,200.00",49,20240317,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Loacker Quadratini Tiramisu (110g),FOOD,12,"65,000.00","780,000.00",0,7,"725,400.00","72,540.00","797,940.00",49,20221126,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Barilla Sauce Arrabbiata (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230416,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,Pate Royal Pure Pork Mousse with Espelette Pepper,FOOD,3,"94,000.00","282,000.00",0,0,"282,000.00","28,200.00","310,200.00",49,20260930,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,La Dory Galettes Assortment Tet Tin Box 195g,FOOD,12,"104,000.00","1,248,000.00",0,5,"1,185,600.00","118,560.00","1,304,160.00",49,20220726,South,FRA,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,FOOD,Jelly Bean 36 Huge Flavours 100g,FOOD,24,"34,000.00","816,000.00",0,10,"734,400.00","73,440.00","807,840.00",49,20230510,South,IRL,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Ritter Sport Dark Whole Hazelnuts,FOOD,10,"43,000.00","430,000.00",0,0,"430,000.00","43,000.00","473,000.00",49,20220817,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,"Haribo collection round paper box 192g
+",,12,"62,000.00","744,000.00",0,0,"744,000.00","74,400.00","818,400.00",49,20221223,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Sauce Olive (400g),FOOD,10,"94,200.00","942,000.00",0,0,"942,000.00","94,200.00","1,036,200.00",49,20230305,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,McCormick Oregano Leaves  (10g),FOOD,48,"33,600.00","1,612,800.00",0,20,"1,290,240.00","129,024.00","1,419,264.00",49,20240525,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Barilla Sauce Arrabbiata (400g),FOOD,12,"79,600.00","955,200.00",0,15,"811,920.00","81,192.00","893,112.00",49,20230416,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Kikkoman Teriyaki Honey & Soy (250ml),FOOD,3,"80,800.00","242,400.00",0,0,"242,400.00","24,240.00","266,640.00",49,20240925,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haagen Dazs Mango Raspberry Minicup (100ml),FOOD,16,0,0,0,0,0,0,0,49,20221012,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Lindt Swiss Classic Dark Surfin Chocolate Tablet (100g),FOOD,9,"67,000.00","603,000.00",0,0,"603,000.00","60,300.00","663,300.00",49,20221016,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Starmix 160g,FOOD,5,"34,300.00","171,500.00",0,0,"171,500.00","17,150.00","188,650.00",49,20221030,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221021,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,HORECA,Food,Latino Bella Sliced Black Olives (3kg),FOOD,6,"184,500.00","1,107,000.00","7,500.00",0,"1,062,000.00","106,200.00","1,168,200.00",49,20240112,South,,Horeca,TP-HCM,PizzaHut
+12/1/2021,MASS,FOOD,McVitie's Digestives Nibbles Dark Choco (80g),FOOD,14,"25,000.00","350,000.00",0,0,"350,000.00","35,000.00","385,000.00",49,20221027,South,GBR,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,McCormick Cajun Seasoning (35g),FOOD,24,"57,100.00","1,370,400.00",0,0,"1,370,400.00","137,040.00","1,507,440.00",49,20230510,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,Bertolli Extra Light Olive Oil (500ml),FOOD,12,"145,700.00","1,748,400.00",0,0,"1,748,400.00","174,840.00","1,923,240.00",49,20230811,South,ITA,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,Ritter Sport Dark Chocolate 61% Cocoa 100g,FOOD,36,"43,000.00","1,548,000.00",0,0,"1,548,000.00","154,800.00","1,702,800.00",49,20221005,South,DEU,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Pep. Farm Double Nantucket (220g),FOOD,20,"89,000.00","1,780,000.00",0,0,"1,780,000.00","178,000.00","1,958,000.00",49,20220712,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,McCormick Cajun Seasoning (35g),FOOD,48,"57,100.00","2,740,800.00",0,20,"2,192,640.00","219,264.00","2,411,904.00",49,20230625,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,FOOD,La Boulangere 6 Croissants 240g,FOOD,4,"56,941.00","227,764.00",0,0,"227,764.00","22,776.40","250,540.40",49,20230202,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,McCormick Basil Leaves  (10g),FOOD,6,"34,700.00","208,200.00",0,0,"208,200.00","20,820.00","229,020.00",49,20240525,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haagen Dazs Macadamia Nut Pint (473ml),FOOD,2,"206,500.00","413,000.00",0,2,"404,740.00","40,474.00","445,214.00",49,20220924,South,,Modern Trade,TP-HCM,FamilyMart
+12/1/2021,MASS,Food,Haribo Starmix 160g,FOOD,12,"34,300.00","411,600.00",0,0,"411,600.00","41,160.00","452,760.00",49,20221030,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Loacker Quadratini Dark Chocolate (125g),FOOD,12,"65,000.00","780,000.00",0,0,"780,000.00","78,000.00","858,000.00",49,20221208,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,FOOD,Barilla Sauce Napoletana 200g,FOOD,12,"35,500.00","426,000.00",0,15,"362,100.00","36,210.00","398,310.00",49,20230302,South,ITA,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Ritter Sport Whole Almonds,FOOD,33,"43,000.00","1,419,000.00",0,0,"1,419,000.00","141,900.00","1,560,900.00",49,20220818,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Haagen Dazs Green Tea Pint (473ml),FOOD,12,"181,720.00","2,180,640.00",0,0,"2,180,640.00","218,064.00","2,398,704.00",49,20221003,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,HORECA,Food,Latino Bella Pomace Olive Oil (4L)- V2,FOOD,1,"500,000.00","500,000.00",0,5,"475,000.00","47,500.00","522,500.00",49,20240422,South,,Horeca,TP-HCM,Moobeef
+12/1/2021,MASS,Food,Pep. Farm Double Nantucket (220g),FOOD,5,"89,000.00","445,000.00",0,0,"445,000.00","44,500.00","489,500.00",49,20220712,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,36,"79,600.00","2,865,600.00",0,0,"2,865,600.00","286,560.00","3,152,160.00",49,20230406,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221107,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,McCormick Steak Spice (60g),FOOD,5,"58,300.00","291,500.00",0,0,"291,500.00","29,150.00","320,650.00",49,20230510,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,HORECA,FOOD,Fruits Rouges Frozen Mango Alfonso Puree without sugar 1kg,FOOD,3,"225,000.00","675,000.00","20,000.00",0,"615,000.00","61,500.00","676,500.00",49,20240405,South,FRA,Horeca,TP-HCM,Horeca5Star_South
+12/1/2021,MASS,Food,Lorenz Naturals Mild Paprika (100g),FOOD,48,"40,900.00","1,963,200.00",0,0,"1,963,200.00","196,320.00","2,159,520.00",49,20220430,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Ritter Sport Extra Fine Milk 35% (100g),FOOD,12,"39,000.00","468,000.00",0,7,"435,240.00","43,524.00","478,764.00",49,20220812,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haribo Happy Cola Sour Fresh (80g),FOOD,6,"19,000.00","114,000.00",0,0,"114,000.00","11,400.00","125,400.00",49,20221126,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,"Merci Finest Selection Chocolate Gift Box 500g
+",FOOD,6,"263,000.00","1,578,000.00",0,0,"1,578,000.00","157,800.00","1,735,800.00",49,20220809,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221021,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,POSM,Haagen Dazs Cooler Bag - BTS Band,FOOD,4,0,0,0,0,0,0,0,49,NOEXP,South,HKG,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Kuehne Dressing Italian 250ml,FOOD,6,"57,500.00","345,000.00",0,0,"345,000.00","34,500.00","379,500.00",49,20230420,South,,Modern Trade,TP-HCM,Jmart
+12/1/2021,MASS,FOOD,Jelly Bean Fruit Cocktail 100g,FOOD,2,"34,000.00","68,000.00",0,0,"68,000.00","6,800.00","74,800.00",49,20230426,South,IRL,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haagen Dazs Strawberry Pint (473ml),FOOD,6,"206,500.00","1,239,000.00",0,0,"1,239,000.00","123,900.00","1,362,900.00",49,20220926,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,HORECA,BEVERAGE,Evian Water Glass Bottle (750ml),BEVERAGE,240,"53,300.00","12,792,000.00","16,300.00",0,"8,880,000.00","888,000.00","9,768,000.00",49,20230208,South,,Horeca,TP-HCM,EMG
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230406,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,HORECA,Food,Maille Mustard Dijon (865g),FOOD,1,"132,500.00","132,500.00",0,0,"132,500.00","13,250.00","145,750.00",49,20221014,South,,Horeca,TP-HCM,Pizza4P
+12/1/2021,MASS,Food,Tabasco Sauce Pepper GREEN (60ml),FOOD,4,"53,400.00","213,600.00",0,0,"213,600.00","21,360.00","234,960.00",49,20221208,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,McCormick Cajun Seasoning (35g),FOOD,1,"57,100.00","57,100.00",0,0,"57,100.00","5,710.00","62,810.00",49,20230510,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Barilla Pasta Tortiglioni No.83 (500g),FOOD,6,"49,500.00","297,000.00",0,0,"297,000.00","29,700.00","326,700.00",49,20240301,South,,General Trade,TP-HCM,GT_South
+12/1/2021,HORECA,Food,"Emborg Whipped Cream, 30%, Sweetened, in spray can 250g",FOOD,1,"74,900.00","74,900.00",0,0,"74,900.00","7,490.00","82,390.00",49,20220430,South,,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Haribo Worms 80g,FOOD,9,"19,000.00","171,000.00",0,0,"171,000.00","17,100.00","188,100.00",49,20221125,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,FOOD,Ritter Sport Dark Chocolate 81% Cocoa 100g,,12,"43,000.00","516,000.00",0,0,"516,000.00","51,600.00","567,600.00",49,20221006,South,DEU,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Barilla Sauce Arrabbiata (400g),FOOD,30,"79,600.00","2,388,000.00",0,0,"2,388,000.00","238,800.00","2,626,800.00",49,20230416,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,La Boulangere 10 Milk Breads 350g,FOOD,3,"97,856.00","293,568.00",0,0,"293,568.00","29,356.80","322,924.80",49,20221209,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,FOOD,Haribo Grapes 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20230212,South,TUR,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Lorenz Crunchips Salted (100g),FOOD,48,"31,700.00","1,521,600.00",0,0,"1,521,600.00","152,160.00","1,673,760.00",49,20220523,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,La Boulangere Plaited Brioche 400g,FOOD,3,"105,688.00","317,064.00",0,0,"317,064.00","31,706.40","348,770.40",49,20230110,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Ritter Sport Rum Raisins Hazelnuts Chocolate 100g,FOOD,10,"39,000.00","390,000.00",0,15,"331,500.00","33,150.00","364,650.00",49,20220512,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Ritter Sport Rum Raisins Hazelnuts Chocolate 100g,FOOD,30,"39,000.00","1,170,000.00",0,15,"994,500.00","99,450.00","1,093,950.00",49,20220512,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,HORECA,BEVERAGE,Ferrarelle Glass 33cl,BEVERAGE,48,"39,800.00","1,910,400.00","12,300.00",0,"1,320,000.00","132,000.00","1,452,000.00",49,20230407,South,ITA,Horeca,TP-HCM,Horeca5Star_South
+12/1/2021,MASS,Food,Barilla Pasta Spaghettoni (500g),FOOD,30,"47,000.00","1,410,000.00",0,15,"1,198,500.00","119,850.00","1,318,350.00",49,20240317,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,18,"19,000.00","342,000.00",0,20,"273,600.00","27,360.00","300,960.00",49,20221204,South,,Modern Trade,TP-HCM,Kohnan
+12/1/2021,MASS,Food,Barilla Sauce Napoletana (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230403,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Lorenz Crunchips Cheese & Onion (100g),FOOD,12,"31,700.00","380,400.00",0,27.25,"276,741.00","27,674.10","304,415.10",49,20220519,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,FOOD,La Boulangere 8 Organic Plain Milk Bread (280g),,2,"69,200.00","138,400.00",0,0,"138,400.00","13,840.00","152,240.00",49,20230204,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Haribo Starmix 160g,FOOD,24,"34,300.00","823,200.00",0,0,"823,200.00","82,320.00","905,520.00",49,20221030,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Ricola Mountain Mint Carton Box (40g),FOOD,10,"24,200.00","242,000.00",0,0,"242,000.00","24,200.00","266,200.00",49,20230518,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Bonne Maman Jam Wild Blueberry (225g),FOOD,6,"84,000.00","504,000.00",0,7,"468,720.00","46,872.00","515,592.00",49,20230715,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haagen Dazs Green Tea Pint (473ml),FOOD,4,"206,500.00","826,000.00",0,0,"826,000.00","82,600.00","908,600.00",49,20221003,South,,Modern Trade,TP-HCM,CircleK_South
+12/1/2021,MASS,Food,Haribo Fruity Basket 80g,FOOD,3,0,0,0,0,0,0,0,49,20220518,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Barilla Sauce Olive (400g),FOOD,6,"94,200.00","565,200.00",0,0,"565,200.00","56,520.00","621,720.00",49,20230305,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,"Emborg Frozen Mozzarella, Portion, F.I.D.M. 40% 200g",FOOD,1,"64,944.00","64,944.00",0,0,"64,944.00","6,494.40","71,438.40",49,20220406,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,McCormick Steak Spice (60g),FOOD,1,"58,300.00","58,300.00",0,0,"58,300.00","5,830.00","64,130.00",49,20230510,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,3,"79,600.00","238,800.00",0,0,"238,800.00","23,880.00","262,680.00",49,20230406,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti no.5 box 1kg,FOOD,24,"55,000.00","1,320,000.00",0,0,"1,320,000.00","132,000.00","1,452,000.00",49,20231101,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Barilla Sauce Olive (400g),FOOD,6,"94,200.00","565,200.00",0,0,"565,200.00","56,520.00","621,720.00",49,20230305,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,FOOD,Ritter Sport Dark Milk Chocolate 55% Cocoa 100g,FOOD,24,"43,000.00","1,032,000.00",0,0,"1,032,000.00","103,200.00","1,135,200.00",49,20221007,South,DEU,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Kuehne Dressing American 250ml,FOOD,4,"57,500.00","230,000.00",0,0,"230,000.00","23,000.00","253,000.00",49,20230129,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,Haribo Fruity Basket 80g,FOOD,6,"19,000.00","114,000.00",0,0,"114,000.00","11,400.00","125,400.00",49,20220715,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Pep. Farm Goldfish CHEDDAR 8.6oz (187 gr),FOOD,22,"59,500.00","1,309,000.00",0,5,"1,243,550.00","124,355.00","1,367,905.00",49,20220726,South,,General Trade,TP-HCM,MWH_South
+12/1/2021,MASS,Food,Ritter Sport Whole Hazelnuts,FOOD,10,"43,000.00","430,000.00",0,0,"430,000.00","43,000.00","473,000.00",49,20220716,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,BEVERAGE,English Tea Shop Peppermint 20ct (30g),BEVERAGE,4,"90,000.00","360,000.00",0,0,"360,000.00","36,000.00","396,000.00",49,20240819,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haagen Dazs Mango Raspberry Minicup (100ml),FOOD,12,"57,000.00","684,000.00",0,0,"684,000.00","68,400.00","752,400.00",49,20221012,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,BEVERAGE,Evian Water PET Water (500ml),BEVERAGE,24,"24,600.00","590,400.00",0,0,"590,400.00","59,040.00","649,440.00",49,20230412,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,BEVERAGE,Evian Water PET Water (500ml),BEVERAGE,72,"24,600.00","1,771,200.00",0,0,"1,771,200.00","177,120.00","1,948,320.00",49,20230412,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,12,"94,200.00","1,130,400.00",0,0,"1,130,400.00","113,040.00","1,243,440.00",49,20230525,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Ritter Sport Chocolate Cubes Selection (24x8g),FOOD,24,"135,000.00","3,240,000.00",0,5,"3,078,000.00","307,800.00","3,385,800.00",49,20220519,South,DEU,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Ritter Sport Whole Hazelnuts,FOOD,10,"43,000.00","430,000.00",0,20,"344,000.00","34,400.00","378,400.00",49,20220716,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haagen Dazs Macadamia Nut Minicup (100ml),FOOD,12,"50,160.00","601,920.00",0,0,"601,920.00","60,192.00","662,112.00",49,20220818,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,4,"19,000.00","76,000.00",0,0,"76,000.00","7,600.00","83,600.00",49,20220913,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,FOOD,Barilla Sauce Bolognese 200g,FOOD,3,"46,300.00","138,900.00",0,0,"138,900.00","13,890.00","152,790.00",49,20230103,South,ITA,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Kikkoman Teriyaki Honey & Soy (250ml),FOOD,12,"80,800.00","969,600.00",0,0,"969,600.00","96,960.00","1,066,560.00",49,20240925,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,48,"94,200.00","4,521,600.00",0,0,"4,521,600.00","452,160.00","4,973,760.00",49,20230430,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,HORECA,BEVERAGE,Evian Water PET Water (500ml),BEVERAGE,144,"24,600.00","3,542,400.00",0,7,"3,294,432.00","329,443.20","3,623,875.20",49,20230412,South,,Horeca,TP-HCM,Horeca5Star_South
+12/1/2021,MASS,Food,Lindt Excellence 70% Dark Chocolate Tablet (100g),FOOD,40,"94,000.00","3,760,000.00",0,15,"3,196,000.00","319,600.00","3,515,600.00",49,20220930,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,HORECA,Food,Kikkoman Soy Sauce Fancy 18L,FOOD,2,"1,328,000.00","2,656,000.00","132,800.00",0,"2,390,400.00","239,040.00","2,629,440.00",49,20230305,South,,Horeca,TP-HCM,SushiTei
+12/1/2021,MASS,FOOD,La Boulangere 4 Hot - Dog Rolls 250g,FOOD,5,"43,426.00","217,130.00",0,0,"217,130.00","21,713.00","238,843.00",49,20230217,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Kuehne Honey-Mustard Dressing (250ml),FOOD,24,"57,500.00","1,380,000.00",0,2,"1,352,400.00","135,240.00","1,487,640.00",49,20230203,South,,General Trade,TP-HCM,MWH_South
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,6,"19,000.00","114,000.00",0,0,"114,000.00","11,400.00","125,400.00",49,20221107,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Latino Bella Pomace Olive Oil (1L) GREEN BOTTLE,FOOD,36,"181,000.00","6,516,000.00",0,0,"6,516,000.00","651,600.00","7,167,600.00",49,20240819,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,12,"19,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20221107,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haagen Dazs Coffee Pint (473ml),FOOD,24,"181,720.00","4,361,280.00",0,0,"4,361,280.00","436,128.00","4,797,408.00",49,20220926,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Pep. Farm Wafers French Vanilla (382g),FOOD,36,"88,500.00","3,186,000.00",0,10,"2,867,400.00","286,740.00","3,154,140.00",49,20220929,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Tyrrells Lightly Sea Salted (40g),FOOD,20,"29,700.00","594,000.00",0,0,"594,000.00","59,400.00","653,400.00",49,20220416,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Barilla Pasta Spaghettoni (500g),FOOD,75,"47,000.00","3,525,000.00",0,0,"3,525,000.00","352,500.00","3,877,500.00",49,20240317,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Tabasco Sauce Pepper RED (60ml),FOOD,12,"53,400.00","640,800.00",0,0,"640,800.00","64,080.00","704,880.00",49,20260714,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,HORECA,FOOD,"American Cream Cheese ""Creamy"" 1.36kg",FOOD,8,"195,840.00","1,566,720.00","16,320.00",0,"1,436,160.00","143,616.00","1,579,776.00",49,20220514,South,USA,Horeca,TP-HCM,Horeca_south
+12/1/2021,MASS,Food,Haagen Dazs Coffee Minicup (100ml),FOOD,4,"50,160.00","200,640.00",0,0,"200,640.00","20,064.00","220,704.00",49,20220622,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,McCormick Hungarian Paprika (30g),FOOD,24,"52,100.00","1,250,400.00",0,20,"1,000,320.00","100,032.00","1,100,352.00",49,20230629,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Dispenser (150ml),FOOD,4,"57,100.00","228,400.00",0,0,"228,400.00","22,840.00","251,240.00",49,20241011,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Maille Mustard Old Style (210g),FOOD,36,"59,500.00","2,142,000.00",0,0,"2,142,000.00","214,200.00","2,356,200.00",49,20230110,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,"Emborg American, with Cheddar, Sliced 200g",FOOD,6,"49,200.00","295,200.00",0,0,"295,200.00","29,520.00","324,720.00",49,20220809,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,Pep. Farm Distinctive Butter Chessman (206g),FOOD,24,"78,000.00","1,872,000.00",0,0,"1,872,000.00","187,200.00","2,059,200.00",49,20220827,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,McCormick Cajun Seasoning (35g),FOOD,4,"57,100.00","228,400.00",0,0,"228,400.00","22,840.00","251,240.00",49,20230510,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Barilla Pasta Penne Rigate No.73 (500g),FOOD,45,"49,500.00","2,227,500.00",0,0,"2,227,500.00","222,750.00","2,450,250.00",49,20240319,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,6,"94,200.00","565,200.00",0,0,"565,200.00","56,520.00","621,720.00",49,20230430,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haagen Dazs Cookies & Cream Pint (473ml),FOOD,4,"206,500.00","826,000.00",0,0,"826,000.00","82,600.00","908,600.00",49,20220825,South,,Modern Trade,TP-HCM,CircleK_South
+12/1/2021,HORECA,Food,"Emborg American, with Cheddar, Sliced 200g",FOOD,2,"49,200.00","98,400.00",0,0,"98,400.00","9,840.00","108,240.00",49,20220809,South,,Horeca,TP-HCM,Horeca5Star_South
+12/1/2021,MASS,FOOD,Westgold Chilled UHT Whipping Cream 1L,,12,"102,600.00","1,231,200.00",0,0,"1,231,200.00","123,120.00","1,354,320.00",49,20220414,South,NZL,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,McCormick Italian Seasoning (35g),FOOD,50,"77,600.00","3,880,000.00",0,0,"3,880,000.00","388,000.00","4,268,000.00",49,20230605,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Tabasco Sauce HABANERO (60ml),FOOD,6,"75,000.00","450,000.00",0,0,"450,000.00","45,000.00","495,000.00",49,20230715,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haagen Dazs Coffee Minicup (100ml),FOOD,4,"57,000.00","228,000.00",0,2,"223,440.00","22,344.00","245,784.00",49,20220803,South,,Modern Trade,TP-HCM,FamilyMart
+12/1/2021,MASS,FOOD,Jelly Bean Fruit Cocktail 200g,FOOD,2,"65,000.00","130,000.00",0,0,"130,000.00","13,000.00","143,000.00",49,20230527,South,IRL,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Dispenser (150ml),FOOD,48,"57,100.00","2,740,800.00",0,0,"2,740,800.00","274,080.00","3,014,880.00",49,20241011,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Loacker Quadratini Vanilla (250g),FOOD,3,"109,200.00","327,600.00",0,0,"327,600.00","32,760.00","360,360.00",49,20221125,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haagen Dazs Blueberry & Cream Minicup (100ml),FOOD,12,"57,000.00","684,000.00",0,0,"684,000.00","68,400.00","752,400.00",49,20221010,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Maille Red Wine Vinegar (500ml),FOOD,2,"98,500.00","197,000.00",0,0,"197,000.00","19,700.00","216,700.00",49,20240602,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Lindt Excellence Intense Mint Chocolate Tablet (100g),FOOD,40,"94,000.00","3,760,000.00",0,15,"3,196,000.00","319,600.00","3,515,600.00",49,20220609,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,McCormick Basil Leaves  (10g),FOOD,48,"34,700.00","1,665,600.00",0,0,"1,665,600.00","166,560.00","1,832,160.00",49,20240525,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,POSM,Haagen Dazs Cooler Bag - BTS Band,FOOD,6,0,0,0,0,0,0,0,49,NOEXP,South,HKG,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Haribo Goldbears (30g),FOOD,5,"6,900.00","34,500.00",0,0,"34,500.00","3,450.00","37,950.00",49,20221121,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221021,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Haribo Goldbears (30g),FOOD,24,"6,900.00","165,600.00",0,0,"165,600.00","16,560.00","182,160.00",49,20221121,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221204,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,HORECA,BEVERAGE,Teisseire Syrup Lychee 70cl,BEVERAGE,2,"195,000.00","390,000.00","19,500.00",0,"351,000.00","35,100.00","386,100.00",49,20240602,South,,Horeca,TP-HCM,PizzaHut
+12/1/2021,MASS,FOOD,McVitie's Digestives Nibbles Milk Choco (80g),FOOD,14,"25,000.00","350,000.00",0,0,"350,000.00","35,000.00","385,000.00",49,20221028,South,GBR,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Lindt Excellence 85% Dark Chocolate Tablet (100g),FOOD,20,"94,000.00","1,880,000.00",0,15,"1,598,000.00","159,800.00","1,757,800.00",49,20220831,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,25,"47,000.00","1,175,000.00",0,0,"1,175,000.00","117,500.00","1,292,500.00",49,20240424,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Latino Bella Extra Virgin OLIVE OIL (250ml) GREEN BOTTLE,FOOD,5,"81,500.00","407,500.00",0,10,"366,750.00","36,675.00","403,425.00",49,20240721,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,"Emborg Frozen Mozzarella, Shredded, F.I.D.M. 40% 200g",FOOD,12,"68,376.00","820,512.00",0,15,"697,435.20","69,743.52","767,178.72",49,20220409,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Lindt Excellence 70% Dark Chocolate Tablet (100g),FOOD,6,"94,000.00","564,000.00",0,15,"479,400.00","47,940.00","527,340.00",49,20220930,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haagen Dazs Cookies & Cream Pint (473ml),FOOD,16,"206,500.00","3,304,000.00",0,0,"3,304,000.00","330,400.00","3,634,400.00",49,20220825,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230406,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,FOOD,Haribo Chamallows Party 150g,FOOD,11,"34,300.00","377,300.00",0,0,"377,300.00","37,730.00","415,030.00",49,20220616,South,TR,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Tabasco Sauce Pepper RED (60ml),FOOD,12,"53,400.00","640,800.00",0,0,"640,800.00","64,080.00","704,880.00",49,20260714,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,BEVERAGE,English Tea Shop Organic Sleepy Me Tea 20ct (30g),BEVERAGE,4,"99,000.00","396,000.00",0,0,"396,000.00","39,600.00","435,600.00",49,20240512,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Loacker Quadratini Napolitaner (125g),FOOD,12,"65,000.00","780,000.00",0,0,"780,000.00","78,000.00","858,000.00",49,20221030,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Lindt Swiss Luxury selection 145g,FOOD,6,"313,600.00","1,881,600.00",0,0,"1,881,600.00","188,160.00","2,069,760.00",49,20220614,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Pep. Farm Distinctive Butter Chessman (206g),FOOD,50,"78,000.00","3,900,000.00",0,5,"3,705,000.00","370,500.00","4,075,500.00",49,20220714,South,,General Trade,TP-HCM,MWH_South
+12/1/2021,MASS,Food,Haagen Dazs Green Tea Minicup (100ml),FOOD,4,"57,000.00","228,000.00",0,2,"223,440.00","22,344.00","245,784.00",49,20221006,South,,Modern Trade,TP-HCM,FamilyMart
+12/1/2021,MASS,Food,Latino Bella Pomace Olive Oil (1L) GREEN BOTTLE,FOOD,12,"181,000.00","2,172,000.00",0,15,"1,846,200.00","184,620.00","2,030,820.00",49,20240819,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Kikkoman Tasty Japan Teriyaki sauce 150ml,FOOD,8,"36,400.00","291,200.00",0,0,"291,200.00","29,120.00","320,320.00",49,20230714,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,60,"94,200.00","5,652,000.00",0,0,"5,652,000.00","565,200.00","6,217,200.00",49,20230430,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Lorenz Naturals Rosemary (100g),FOOD,72,"40,900.00","2,944,800.00",0,27.25,"2,142,342.00","214,234.20","2,356,576.20",49,20220727,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Pep. Farm Distinctive Butter Chessman (206g),FOOD,24,"78,000.00","1,872,000.00",0,0,"1,872,000.00","187,200.00","2,059,200.00",49,20220827,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,McVitie's Digestives Nibbles Milk Choco (80g),FOOD,24,"25,000.00","600,000.00",0,0,"600,000.00","60,000.00","660,000.00",49,20221028,South,GBR,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,6,0,0,0,0,0,0,0,49,20240424,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,HORECA,Food,Kikkoman Mild Aroma Soy Sauce 18L,FOOD,2,"908,000.00","1,816,000.00","88,000.00",0,"1,640,000.00","164,000.00","1,804,000.00",49,20221114,South,,Horeca,TP-HCM,Marukame
+12/1/2021,MASS,Food,Walkers Biscuit Strawberry & Cream (150g),FOOD,4,"80,700.00","322,800.00",0,0,"322,800.00","32,280.00","355,080.00",49,20220730,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Ritter Sport Dark Chocolate 50% (100g),FOOD,12,"39,000.00","468,000.00",0,15,"397,800.00","39,780.00","437,580.00",49,20221014,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221107,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221107,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Latino Bella Extra Virgin OLIVE OIL (1L) GREEN BOTTLE,FOOD,1,"266,000.00","266,000.00",0,0,"266,000.00","26,600.00","292,600.00",49,20240819,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,30,"47,000.00","1,410,000.00",0,7,"1,311,300.00","131,130.00","1,442,430.00",49,20240424,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haagen Dazs Macadamia Nut Minicup (100ml),FOOD,4,"57,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20220818,South,,Modern Trade,TP-HCM,CircleK_South
+12/1/2021,MASS,Food,Kikkoman Teriyaki Sauce Japan Grill (250ml),FOOD,24,"86,300.00","2,071,200.00",0,0,"2,071,200.00","207,120.00","2,278,320.00",49,20240827,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,HORECA,BEVERAGE,Evian Water Glass Bottle (750ml),BEVERAGE,6,"53,300.00","319,800.00","15,800.00",0,"225,000.00","22,500.00","247,500.00",49,20230310,South,,Horeca,TP-HCM,Horeca5Star_South
+12/1/2021,MASS,FOOD,Haribo Chamallows Party 150g,FOOD,24,"34,300.00","823,200.00",0,0,"823,200.00","82,320.00","905,520.00",49,20220603,South,TR,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221205,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,Merci Petits Milk & Cream Collection 125g,FOOD,10,"55,000.00","550,000.00",0,0,"550,000.00","55,000.00","605,000.00",49,20220726,South,DEU,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Lindt Excellence Intense Mint Chocolate Tablet (100g),FOOD,6,"94,000.00","564,000.00",0,0,"564,000.00","56,400.00","620,400.00",49,20220609,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Wine,Sanama Cabernet Sauvignon (750ml),WINE,4,"181,818.00","727,272.00",0,0,"727,272.00","72,727.20","799,999.20",49,2020,South,,Modern Trade,TP-HCM,BIGC
+12/1/2021,MASS,Food,Walkers Shortbread Scottie Dogs (110g),FOOD,12,"86,200.00","1,034,400.00",0,0,"1,034,400.00","103,440.00","1,137,840.00",49,20220730,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Sauce Olive (400g),FOOD,12,"94,200.00","1,130,400.00",0,0,"1,130,400.00","113,040.00","1,243,440.00",49,20230305,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,FOOD,Ritter Sport Fine Dark Chocolate 74% Cocoa 100g,FOOD,12,"43,000.00","516,000.00",0,0,"516,000.00","51,600.00","567,600.00",49,20221006,South,DEU,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,FOOD,La Boulangere Plaited Brioche 400g,FOOD,4,"105,688.00","422,752.00",0,0,"422,752.00","42,275.20","465,027.20",49,20230110,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,FOOD,Loacker Quadratini 110gx12 Matcha,FOOD,12,"65,000.00","780,000.00",0,7,"725,400.00","72,540.00","797,940.00",49,20221028,South,ITA,General Trade,TP-HCM,MSD_South
+12/1/2021,HORECA,Food,"Emborg Cream Cheese, F.I.D.M. 70% 200g",FOOD,18,"51,000.00","918,000.00","1,000.00",0,"900,000.00","90,000.00","990,000.00",49,20220728,South,,Horeca,TP-HCM,Starbuck
+12/1/2021,MASS,Food,Loacker Quadratini Vanilla (125g),FOOD,12,"65,000.00","780,000.00",0,0,"780,000.00","78,000.00","858,000.00",49,20230130,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Haagen Dazs Macadamia Nut Pint (473ml),FOOD,4,"206,500.00","826,000.00",0,2,"809,480.00","80,948.00","890,428.00",49,20220924,South,,Modern Trade,TP-HCM,FamilyMart
+12/1/2021,HORECA,Food,Emborg Whipping Cream 1L (Cream 35%),FOOD,12,"127,500.00","1,530,000.00","37,500.00",0,"1,080,000.00","108,000.00","1,188,000.00",49,20220301,South,,Horeca,TP-HCM,Horeca_south
+12/1/2021,MASS,Food,McCormick Rosemary Leaves  (18g),FOOD,4,"99,800.00","399,200.00",0,0,"399,200.00","39,920.00","439,120.00",49,20240506,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,Merci Finest Selection Chocolate 250g,FOOD,10,"110,000.00","1,100,000.00",0,0,"1,100,000.00","110,000.00","1,210,000.00",49,20220809,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Pep. Farm Wafers Chocolate Hazelnut (382g),FOOD,72,"88,500.00","6,372,000.00",0,7,"5,925,960.00","592,596.00","6,518,556.00",49,20221004,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haagen Dazs Strawberry Pint (473ml),FOOD,12,"181,720.00","2,180,640.00",0,0,"2,180,640.00","218,064.00","2,398,704.00",49,20220926,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Barilla Pasta Tagliatelle No.129 (500g),FOOD,12,"90,600.00","1,087,200.00",0,0,"1,087,200.00","108,720.00","1,195,920.00",49,20221119,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Kuehne Dressing Thousand Islands 250ml,FOOD,3,"57,500.00","172,500.00",0,0,"172,500.00","17,250.00","189,750.00",49,20230123,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,12,"19,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20221107,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,"Emborg Italian, with Mozzarella, Sliced 200g",FOOD,6,"49,200.00","295,200.00",0,0,"295,200.00","29,520.00","324,720.00",49,20220719,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,Loacker Quadratini Tiramisu (110g),FOOD,3,"65,000.00","195,000.00",0,0,"195,000.00","19,500.00","214,500.00",49,20221126,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Loacker Quadratini Dark Chocolate (125g),FOOD,1,0,0,0,0,0,0,0,49,20221208,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Latino Bella Pitted Green Olives (450g),FOOD,12,"66,000.00","792,000.00",0,15,"673,200.00","67,320.00","740,520.00",49,20240720,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,McCormick Basil Leaves  (10g),FOOD,12,"34,700.00","416,400.00",0,20,"333,120.00","33,312.00","366,432.00",49,20240525,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,6,"47,000.00","282,000.00",0,25,"211,500.00","21,150.00","232,650.00",49,20240424,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,3,"94,200.00","282,600.00",0,7,"262,818.00","26,281.80","289,099.80",49,20230525,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,McCormick Hungarian Paprika (30g),FOOD,48,"52,100.00","2,500,800.00",0,20,"2,000,640.00","200,064.00","2,200,704.00",49,20230629,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,FOOD,Barilla Pasta Spaghetti mini 200g,FOOD,28,"18,000.00","504,000.00",0,0,"504,000.00","50,400.00","554,400.00",49,20240201,South,TUR,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Ritter Sport Mini Chocolate Mix 150g,FOOD,10,"71,000.00","710,000.00",0,0,"710,000.00","71,000.00","781,000.00",49,20220630,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230406,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Latino Bella Extra Virgin OLIVE OIL (1L) GREEN BOTTLE,FOOD,12,"266,000.00","3,192,000.00",0,20,"2,553,600.00","255,360.00","2,808,960.00",49,20240819,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Tabasco Sauce Pepper RED (150ml),FOOD,12,"121,000.00","1,452,000.00",0,0,"1,452,000.00","145,200.00","1,597,200.00",49,20260609,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Pep. Farm Wafers French Vanilla (382g),FOOD,72,"88,500.00","6,372,000.00",0,7,"5,925,960.00","592,596.00","6,518,556.00",49,20220929,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,"Familia  Swiss Choco Teddy 250g
+",FOOD,6,"126,000.00","756,000.00",0,0,"756,000.00","75,600.00","831,600.00",49,20230318,South,CHE,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,Ritter Sport Chocolate Mini Collection (250g),FOOD,16,0,0,0,0,0,0,0,49,20220630,South,US,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Ricola Original Herbs Carton Box (40g),FOOD,20,"24,200.00","484,000.00",0,0,"484,000.00","48,400.00","532,400.00",49,20230518,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,FOOD,Merci Finest Selection Chocolate 250g,FOOD,2,"110,000.00","220,000.00",0,0,"220,000.00","22,000.00","242,000.00",49,20220809,South,DEU,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Barilla Sauce Napoletana (400g),FOOD,3,"79,600.00","238,800.00",0,0,"238,800.00","23,880.00","262,680.00",49,20230403,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haribo Fruity Basket 80g,FOOD,3,0,0,0,0,0,0,0,49,20220518,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Kikkoman Teriyaki Marinade Original (250ml),FOOD,24,"78,000.00","1,872,000.00",0,0,"1,872,000.00","187,200.00","2,059,200.00",49,20240821,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Pep. Farm Distinctive Butter Chessman (206g),FOOD,5,0,0,0,0,0,0,0,49,20220714,South,,General Trade,TP-HCM,MWH_South
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221021,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Lorenz Naturals Sea Salt & Pepper (100g),FOOD,12,"40,900.00","490,800.00",0,0,"490,800.00","49,080.00","539,880.00",49,20220604,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,La Boulangere Plain Crustless Sandwich Bread (500g),,2,"92,700.00","185,400.00",0,0,"185,400.00","18,540.00","203,940.00",49,20230203,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,HORECA,BEVERAGE,La Vie Glass Bottle Still 450ml,BEVERAGE,20,"23,000.00","460,000.00","12,810.00",0,"203,800.00","20,380.00","224,180.00",49,20220511,South,VNM,Horeca,TP-HCM,Bastahiro
+12/1/2021,MASS,Food,Latino Bella Extra Virgin OLIVE OIL (500ml) GREEN BOTTLE,FOOD,1,"149,000.00","149,000.00",0,0,"149,000.00","14,900.00","163,900.00",49,20240825,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221205,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,24,"94,200.00","2,260,800.00",0,15,"1,921,680.00","192,168.00","2,113,848.00",49,20230525,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221205,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,5,0,0,0,0,0,0,0,49,20240424,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Ritter Sport Whole Hazelnuts,FOOD,10,"43,000.00","430,000.00",0,20,"344,000.00","34,400.00","378,400.00",49,20220716,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,McCormick Ground Cumin (30g),FOOD,4,"51,300.00","205,200.00",0,0,"205,200.00","20,520.00","225,720.00",49,20240531,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Happy Cola 160g,FOOD,12,"34,300.00","411,600.00",0,0,"411,600.00","41,160.00","452,760.00",49,20221009,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,6,0,0,0,0,0,0,0,49,20240424,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,6,0,0,0,0,0,0,0,49,20240424,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haribo Worms 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221125,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Maille Mustard Dijon (865g),FOOD,6,"132,500.00","795,000.00",0,7,"739,350.00","73,935.00","813,285.00",49,20221014,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221111,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,FOOD,"Ricola Swiss Herb Candy - Cranberry Tin Box 100g
+",FOOD,12,"101,000.00","1,212,000.00",0,0,"1,212,000.00","121,200.00","1,333,200.00",49,20231222,South,CHE,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Pasta Fusilli No.98 (500g),FOOD,15,"49,500.00","742,500.00",0,15,"631,125.00","63,112.50","694,237.50",49,20240313,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221021,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,18,"19,000.00","342,000.00",0,15,"290,700.00","29,070.00","319,770.00",49,20221107,South,,Modern Trade,TP-HCM,Kohnan
+12/1/2021,MASS,FOOD,Ritter Sport Fine Dark Chocolate 74% Cocoa 100g,FOOD,4,"43,000.00","172,000.00",0,0,"172,000.00","17,200.00","189,200.00",49,20221006,South,DEU,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,McCormick Hungarian Paprika (30g),FOOD,1,"52,100.00","52,100.00",0,0,"52,100.00","5,210.00","57,310.00",49,20230629,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,HORECA,Food,Haagen Dazs Strawberry Minicup (100ml),FOOD,2,"57,000.00","114,000.00",0,0,"114,000.00","11,400.00","125,400.00",49,20220829,South,,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Lindt Swiss Classic Milk Hazelnut Chocolate Tablet (100g),FOOD,12,"78,000.00","936,000.00",0,10,"842,400.00","84,240.00","926,640.00",49,20220630,South,,Modern Trade,TP-HCM,Kohnan
+12/1/2021,MASS,FOOD,Bertolli Extra Light Olive Oil (1L),FOOD,24,"284,800.00","6,835,200.00",0,0,"6,835,200.00","683,520.00","7,518,720.00",49,20230621,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,McCormick Rosemary Leaves  (18g),FOOD,48,"99,800.00","4,790,400.00",0,0,"4,790,400.00","479,040.00","5,269,440.00",49,20240506,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,"Emborg Camembert, Soft White Mould Cheese, plastic cup, Portion, F.I.D.M. 50% 125g",FOOD,6,"68,300.00","409,800.00",0,0,"409,800.00","40,980.00","450,780.00",49,20220721,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,BEVERAGE,Evian Water PET Water (500ml),BEVERAGE,240,"24,600.00","5,904,000.00",0,0,"5,904,000.00","590,400.00","6,494,400.00",49,20230412,South,,Modern Trade,TP-HCM,RomeA
+12/1/2021,MASS,Food,Kikkoman Tasty Japan Teriyaki sauce 150ml,FOOD,36,"36,400.00","1,310,400.00",0,0,"1,310,400.00","131,040.00","1,441,440.00",49,20230714,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Lorenz Naturals Rosemary (100g),FOOD,6,"40,900.00","245,400.00",0,0,"245,400.00","24,540.00","269,940.00",49,20220727,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Ritter Sport White Whole Hazelnuts,FOOD,10,"43,000.00","430,000.00",0,20,"344,000.00","34,400.00","378,400.00",49,20220713,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Latino Bella Extra Virgin OLIVE OIL (500ml) GREEN BOTTLE,FOOD,12,"149,000.00","1,788,000.00",0,0,"1,788,000.00","178,800.00","1,966,800.00",49,20240825,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Maille Mustard Dijon (215g),FOOD,6,"59,500.00","357,000.00",0,7,"332,010.00","33,201.00","365,211.00",49,20221029,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Ritter Sport Cornflakes (100g),FOOD,12,"39,000.00","468,000.00",0,7,"435,240.00","43,524.00","478,764.00",49,20220623,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221101,South,,Modern Trade,TP-HCM,BachHoaXanh
+12/1/2021,MASS,Food,Lindt Swiss Classic Milk Almond Chocolate Tablet (100g),FOOD,1,0,0,0,0,0,0,0,49,20220610,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,HORECA,Food,Tabasco Sauce Pepper RED (60ml),FOOD,18,"49,500.00","891,000.00","13,500.00",0,"648,000.00","64,800.00","712,800.00",49,20260714,South,,Horeca,TP-HCM,Pizza4P
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,6,0,0,0,0,0,0,0,49,20240424,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,POSM,Paper Bag Lindt,FOOD,5,0,0,0,0,0,0,0,49,NOEXP,South,VNM,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Loacker Quadratini Napolitaner (125g),FOOD,12,"65,000.00","780,000.00",0,7,"725,400.00","72,540.00","797,940.00",49,20221030,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,25,"47,000.00","1,175,000.00",0,25,"881,250.00","88,125.00","969,375.00",49,20240424,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Happy Cola (30g),FOOD,18,"6,900.00","124,200.00",0,0,"124,200.00","12,420.00","136,620.00",49,20220916,South,,Modern Trade,TP-HCM,Kohnan
+12/1/2021,MASS,Food,Barilla Pasta Fettuccine No.126 (500g),FOOD,12,"84,400.00","1,012,800.00",0,0,"1,012,800.00","101,280.00","1,114,080.00",49,20240124,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,18,"79,600.00","1,432,800.00",0,0,"1,432,800.00","143,280.00","1,576,080.00",49,20230406,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,15,"47,000.00","705,000.00",0,25,"528,750.00","52,875.00","581,625.00",49,20240424,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Pep. Farm Distinctive Butter Chessman (206g),FOOD,7,"78,000.00","546,000.00",0,0,"546,000.00","54,600.00","600,600.00",49,20220827,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haagen Dazs Coffee Minicup (100ml),FOOD,12,"57,000.00","684,000.00",0,0,"684,000.00","68,400.00","752,400.00",49,20220803,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Pep. Farm Double Nantucket (220g),FOOD,2,0,0,0,0,0,0,0,49,20220712,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,30,0,0,0,0,0,0,0,49,20221021,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haribo Goldbears 160g,FOOD,60,"34,300.00","2,058,000.00",0,0,"2,058,000.00","205,800.00","2,263,800.00",49,20221208,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Pep. Farm Wafers Chocolate Fudge (382g),FOOD,36,"88,500.00","3,186,000.00",0,5,"3,026,700.00","302,670.00","3,329,370.00",49,20221006,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,6,"19,000.00","114,000.00",0,0,"114,000.00","11,400.00","125,400.00",49,20220822,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haagen Dazs Belgian Chocolate Minicup (100ml),FOOD,48,"57,000.00","2,736,000.00",0,0,"2,736,000.00","273,600.00","3,009,600.00",49,20220723,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,12,"19,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20221107,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,McCormick Whole Black Peppercorn (35g),FOOD,4,"58,500.00","234,000.00",0,0,"234,000.00","23,400.00","257,400.00",49,20250422,South,,General Trade,TP-HCM,GT_South
+12/1/2021,HORECA,Food,"Emborg Cream Cheese, F.I.D.M. 70% 200g",FOOD,14,"51,000.00","714,000.00","1,000.00",0,"700,000.00","70,000.00","770,000.00",49,20220728,South,,Horeca,TP-HCM,Starbuck
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,48,"19,000.00","912,000.00",0,0,"912,000.00","91,200.00","1,003,200.00",49,20221107,South,,Modern Trade,TP-HCM,BachHoaXanh
+12/1/2021,MASS,Food,McCormick Parsley Flakes (5g),FOOD,6,"41,800.00","250,800.00",0,0,"250,800.00","25,080.00","275,880.00",49,20230512,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Loacker Quadratini Dark Chocolate (250g),FOOD,3,"109,200.00","327,600.00",0,0,"327,600.00","32,760.00","360,360.00",49,20221111,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Maille Mustard Dijon (215g),FOOD,6,"59,500.00","357,000.00",0,0,"357,000.00","35,700.00","392,700.00",49,20221029,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Dispenser (150ml),FOOD,12,"57,100.00","685,200.00",0,0,"685,200.00","68,520.00","753,720.00",49,20241011,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,8,"47,000.00","376,000.00",0,25,"282,000.00","28,200.00","310,200.00",49,20240424,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230406,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,FOOD,Barilla Sauce Basilico 200g,FOOD,24,"35,500.00","852,000.00",0,15,"724,200.00","72,420.00","796,620.00",49,20230412,South,ITA,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,12,"19,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20221111,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,FOOD,Jelly Bean 36 Huge Flavours 150g,FOOD,12,"55,000.00","660,000.00",0,0,"660,000.00","66,000.00","726,000.00",49,20230301,South,IRL,Modern Trade,TP-HCM,MyMarket
+12/1/2021,MASS,BEVERAGE,Evian MAC PET 150cl,BEVERAGE,12,"51,500.00","618,000.00",0,0,"618,000.00","61,800.00","679,800.00",49,20230521,South,FRA,Modern Trade,TP-HCM,RomeA
+12/1/2021,MASS,Food,Haribo Chamallows Pink & White (70g),FOOD,18,"19,000.00","342,000.00",0,0,"342,000.00","34,200.00","376,200.00",49,20220703,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,BEVERAGE,Evian Water Glass Bottle (750ml),BEVERAGE,60,"53,300.00","3,198,000.00",0,0,"3,198,000.00","319,800.00","3,517,800.00",49,20230310,South,,Modern Trade,TP-HCM,RomeA
+12/1/2021,MASS,Food,Barilla Pasta Angel Hair – 500g,FOOD,75,"47,000.00","3,525,000.00",0,0,"3,525,000.00","352,500.00","3,877,500.00",49,20240127,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,HORECA,FOOD,Emborg Burger slice 1033g (colored),FOOD,5,"180,775.00","903,875.00","30,775.00",0,"750,000.00","75,000.00","825,000.00",49,20220329,South,DNK,Horeca,TP-HCM,Popeyes
+12/1/2021,MASS,Food,Haribo Goldbears (30g),FOOD,240,"6,900.00","1,656,000.00",0,0,"1,656,000.00","165,600.00","1,821,600.00",49,20221121,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Fruity Basket 80g,FOOD,3,0,0,0,0,0,0,0,49,20220518,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Barilla Pasta Lasagna No.199 (500g),FOOD,15,"103,500.00","1,552,500.00",0,7,"1,443,825.00","144,382.50","1,588,207.50",49,20230225,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Latino Bella Pitted Green Olives (450g),FOOD,12,"66,000.00","792,000.00",0,0,"792,000.00","79,200.00","871,200.00",49,20240720,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,HORECA,FOOD,Emborg Frozen Pizza Topping  Block,FOOD,18.4,"130,000.00","2,392,000.00","17,000.00",0,"2,079,200.00","207,920.00","2,287,120.00",49,20220427,South,DNK,Horeca,TP-HCM,Horeca_South
+12/1/2021,HORECA,Food,Kikkoman Soy Sauce Fancy 18L,FOOD,1,"1,328,000.00","1,328,000.00","132,800.00",0,"1,195,200.00","119,520.00","1,314,720.00",49,20230305,South,,Horeca,TP-HCM,SushiTei
+12/1/2021,HORECA,Food,Tabasco Sauce Pepper RED (60ml),FOOD,15,"49,500.00","742,500.00",0,5,"705,375.00","70,537.50","775,912.50",49,20260714,South,,Horeca,TP-HCM,Lusine
+12/1/2021,MASS,FOOD,Pep Farm America Celebration 376g,FOOD,12,"180,000.00","2,160,000.00",0,0,"2,160,000.00","216,000.00","2,376,000.00",49,20220715,South,USA,Modern Trade,TP-HCM,MyMarket
+12/1/2021,MASS,Food,Ritter Sport Peppermint (100g),FOOD,10,"39,000.00","390,000.00",0,15,"331,500.00","33,150.00","364,650.00",49,20220607,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Pasta Tortiglioni No.83 (500g),FOOD,15,"49,500.00","742,500.00",0,0,"742,500.00","74,250.00","816,750.00",49,20240301,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,24,"94,200.00","2,260,800.00",0,0,"2,260,800.00","226,080.00","2,486,880.00",49,20230525,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,HORECA,FOOD,Emborg Burger slice 1033g (colored),FOOD,5,"180,775.00","903,875.00",0,0,"903,875.00","90,387.50","994,262.50",49,20220215,South,DNK,Horeca,TP-HCM,Horeca_south
+12/1/2021,MASS,BEVERAGE,Rauch - Happy day Orange 1L,,12,"52,400.00","628,800.00",0,0,"628,800.00","62,880.00","691,680.00",49,20220818,South,AUS,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Barilla Pasta Spaghettoni (500g),FOOD,3,"47,000.00","141,000.00",0,0,"141,000.00","14,100.00","155,100.00",49,20240317,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haagen Dazs Strawberry Minicup (100ml),FOOD,48,"57,000.00","2,736,000.00",0,0,"2,736,000.00","273,600.00","3,009,600.00",49,20220829,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,HORECA,FOOD,Emborg Frozen Pizza Topping  Block,FOOD,115,0,0,0,0,0,0,0,49,20220427,South,DNK,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,10,"79,600.00","796,000.00",0,0,"796,000.00","79,600.00","875,600.00",49,20230406,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haagen Dazs Strawberry Pint (473ml),FOOD,8,"206,500.00","1,652,000.00",0,0,"1,652,000.00","165,200.00","1,817,200.00",49,20220926,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Kuehne Gourmet Barbecue Sauce (250ml),FOOD,24,"39,800.00","955,200.00",0,0,"955,200.00","95,520.00","1,050,720.00",49,20230702,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,McCormick Ground Cumin (30g),FOOD,3,"51,300.00","153,900.00",0,0,"153,900.00","15,390.00","169,290.00",49,20240531,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221205,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,HORECA,BEVERAGE,Evian Water Glass Bottle (330ml),BEVERAGE,86,"37,700.00","3,242,200.00",0,15,"2,755,870.00","275,587.00","3,031,457.00",49,20220318,South,,Horeca,TP-HCM,NovalandGroup
+12/1/2021,MASS,Food,McCormick Parsley Flakes (5g),FOOD,10,"41,800.00","418,000.00",0,0,"418,000.00","41,800.00","459,800.00",49,20230512,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Lindt Excellence Intense Orange Chocolate Tablet (100g),FOOD,10,"94,000.00","940,000.00",0,0,"940,000.00","94,000.00","1,034,000.00",49,20220731,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Goldbears 200g,FOOD,9,"51,900.00","467,100.00",0,0,"467,100.00","46,710.00","513,810.00",49,20221215,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haagen Dazs Macadamia Nut Minicup (100ml),FOOD,10,"57,000.00","570,000.00",0,0,"570,000.00","57,000.00","627,000.00",49,20220818,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,48,"19,000.00","912,000.00",0,0,"912,000.00","91,200.00","1,003,200.00",49,20221204,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Latino Bella Pomace Olive Oil (1L) GREEN BOTTLE,FOOD,12,"181,000.00","2,172,000.00",0,0,"2,172,000.00","217,200.00","2,389,200.00",49,20240819,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,McCormick Italian Seasoning (35g),FOOD,24,"77,600.00","1,862,400.00",0,0,"1,862,400.00","186,240.00","2,048,640.00",49,20230605,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haribo Worms 80g,FOOD,30,0,0,0,0,0,0,0,49,20221125,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Lindt Excellence 70% Dark Chocolate Tablet (100g),FOOD,1,"94,000.00","94,000.00",0,15,"79,900.00","7,990.00","87,890.00",49,20220930,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Lorenz Pomsticks Cheese (100g),FOOD,24,"30,700.00","736,800.00",0,0,"736,800.00","73,680.00","810,480.00",49,20220519,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haagen Dazs Cookies & Cream Pint (473ml),FOOD,12,"206,500.00","2,478,000.00",0,0,"2,478,000.00","247,800.00","2,725,800.00",49,20220825,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,HORECA,Food,Riso Gallo Long Grain CARNAROLI (1kg),FOOD,2,"162,000.00","324,000.00",0,5,"307,800.00",0,"307,800.00",49,20240223,South,,Horeca,TP-HCM,Pizza4P
+12/1/2021,MASS,Food,Haribo Worms 80g,FOOD,240,"19,000.00","4,560,000.00",0,7,"4,240,800.00","424,080.00","4,664,880.00",49,20221125,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Ricola Alpin Fresh Carton Box (40g),FOOD,2,"24,200.00","48,400.00",0,0,"48,400.00","4,840.00","53,240.00",49,20230421,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Ritter Sport Dark Whole Hazelnuts,FOOD,10,"43,000.00","430,000.00",0,20,"344,000.00","34,400.00","378,400.00",49,20220817,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Special Fragrance (600ml),FOOD,36,"76,500.00","2,754,000.00",0,0,"2,754,000.00","275,400.00","3,029,400.00",49,20230328,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Kikkoman Teriyaki Thick 290g,FOOD,2,"92,100.00","184,200.00",0,0,"184,200.00","18,420.00","202,620.00",49,20240902,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Pep. Farm Wafers Chocolate Fudge (382g),FOOD,12,"88,500.00","1,062,000.00",0,5,"1,008,900.00","100,890.00","1,109,790.00",49,20221006,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,"Emborg Frozen Mozzarella, Portion, F.I.D.M. 40% 200g",FOOD,9,"73,800.00","664,200.00",0,0,"664,200.00","66,420.00","730,620.00",49,20220817,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haribo Starmix 160g,FOOD,36,"34,300.00","1,234,800.00",0,0,"1,234,800.00","123,480.00","1,358,280.00",49,20221030,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,FOOD,Haribo Grapes 80g,FOOD,120,"19,000.00","2,280,000.00",0,0,"2,280,000.00","228,000.00","2,508,000.00",49,20230212,South,TUR,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Pep. Farm Distinctive Butter Chessman (206g),FOOD,24,"78,000.00","1,872,000.00",0,0,"1,872,000.00","187,200.00","2,059,200.00",49,20220827,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Latino Bella Extra Virgin OLIVE OIL (1L) GREEN BOTTLE,FOOD,24,"266,000.00","6,384,000.00",0,0,"6,384,000.00","638,400.00","7,022,400.00",49,20240819,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,HORECA,BEVERAGE,La Vie Glass Bottle Still 450ml,BEVERAGE,100,"23,000.00","2,300,000.00","12,810.00",0,"1,019,000.00","101,900.00","1,120,900.00",49,20220511,South,VNM,Horeca,TP-HCM,PACCGROUP
+12/1/2021,HORECA,Food,"Emborg Whipped Cream, 30%, Sweetened, in spray can 250g",FOOD,4,"74,900.00","299,600.00",0,0,"299,600.00","29,960.00","329,560.00",49,20220415,South,,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,7,"47,000.00","329,000.00",0,25,"246,750.00","24,675.00","271,425.00",49,20240423,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,HORECA,Food,ORTALLI Balsamic RED Cascina Palazzo 5L,FOOD,1,"650,000.00","650,000.00",0,5,"617,500.00","61,750.00","679,250.00",49,20250224,South,,Horeca,TP-HCM,Moobeef
+12/1/2021,MASS,NONFOOD,Duracell Lithium Coin 2032-2s,,12,"40,800.00","489,600.00",0,7,"455,328.00","45,532.80","500,860.80",49,20290930,South,CHN,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Sushi&Sashimi (150ml),FOOD,48,"60,800.00","2,918,400.00",0,0,"2,918,400.00","291,840.00","3,210,240.00",49,20240920,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221205,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Maille Mustard Old Style (210g),FOOD,4,"59,500.00","238,000.00",0,0,"238,000.00","23,800.00","261,800.00",49,20230110,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Loacker Quadratini Chocolate (125g),FOOD,12,"65,000.00","780,000.00",0,0,"780,000.00","78,000.00","858,000.00",49,20230227,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,La Boulangere 10 Milk Breads 350g,FOOD,3,"97,856.00","293,568.00",0,0,"293,568.00","29,356.80","322,924.80",49,20221209,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,FOOD,Fruits Rouges Frozen IQF Strawberry 1kg,FOOD,8,"167,200.00","1,337,600.00",0,0,"1,337,600.00","133,760.00","1,471,360.00",49,20230526,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,6,"19,000.00","114,000.00",0,0,"114,000.00","11,400.00","125,400.00",49,20221111,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Lorenz Naturals Balsamic Vinegar (100g),FOOD,48,"40,900.00","1,963,200.00",0,0,"1,963,200.00","196,320.00","2,159,520.00",49,20220518,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Lorenz Crunchips Cheese & Onion (100g),FOOD,48,"31,700.00","1,521,600.00",0,0,"1,521,600.00","152,160.00","1,673,760.00",49,20220519,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,HORECA,FOOD,"Emborg Processed cheddar slices  (Colored SOS) 1,033 kg",FOOD,20,"211,765.00","4,235,300.00","33,265.00",0,"3,570,000.00","357,000.00","3,927,000.00",49,20220202,South,DNK,Horeca,TP-HCM,Horeca_South
+12/1/2021,HORECA,Food,"Emborg Cooking cream, UHT, 20% fat 1L",FOOD,100,"111,800.00","11,180,000.00","21,800.00",0,"9,000,000.00","900,000.00","9,900,000.00",49,20220302,South,,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Ritter Sport Raisins & Hazelnuts(100g),FOOD,12,"39,000.00","468,000.00",0,7,"435,240.00","43,524.00","478,764.00",49,20220714,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,FOOD,"Lindt Mini Pralines 100g
+
+",FOOD,8,"298,000.00","2,384,000.00",0,0,"2,384,000.00","238,400.00","2,622,400.00",49,20220731,South,CHE,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Bertolli Extra Virgin Olive Oil (500ml),FOOD,12,"176,600.00","2,119,200.00",0,0,"2,119,200.00","211,920.00","2,331,120.00",49,20221210,South,ITA,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Barilla Pasta Spaghettoni (500g),FOOD,4,"47,000.00","188,000.00",0,0,"188,000.00","18,800.00","206,800.00",49,20240317,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,Haribo Chamallows Pink & White (70g),FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20220828,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,McCormick Parsley Flakes (5g),FOOD,12,"41,800.00","501,600.00",0,20,"401,280.00","40,128.00","441,408.00",49,20230512,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Kuehne Gourmet Barbecue Sauce (250ml),FOOD,12,"39,800.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230702,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Ricola Lemon Mint Carton Box (40g),FOOD,2,"24,200.00","48,400.00",0,0,"48,400.00","4,840.00","53,240.00",49,20230419,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Fruity Basket 80g,FOOD,3,0,0,0,0,0,0,0,49,20220518,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230406,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haagen Dazs Mango Raspberry Minicup (100ml),FOOD,6,"50,160.00","300,960.00",0,0,"300,960.00","30,096.00","331,056.00",49,20221012,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Lorenz Pomsticks Cheese (100g),FOOD,6,"30,700.00","184,200.00",0,0,"184,200.00","18,420.00","202,620.00",49,20220408,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Goldbears 200g,FOOD,12,"51,900.00","622,800.00",0,0,"622,800.00","62,280.00","685,080.00",49,20221215,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,BEVERAGE,Rauch - Happy day Pink Guava,,6,0,0,0,0,0,0,0,49,20220507,South,AUS,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Sushi&Sashimi (150ml),FOOD,4,"60,800.00","243,200.00",0,0,"243,200.00","24,320.00","267,520.00",49,20240824,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haagen Dazs Mango Raspberry Minicup (100ml),FOOD,5,0,0,0,0,0,0,0,49,20221012,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,MASS,Food,"Emborg Italian, with Mozzarella, Sliced 200g",FOOD,5,"49,200.00","246,000.00",0,7,"228,780.00","22,878.00","251,658.00",49,20220719,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,McCormick Parsley Flakes (5g),FOOD,20,"41,800.00","836,000.00",0,15,"710,600.00","71,060.00","781,660.00",49,20230512,South,,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,Food,Ritter Sport Cornflakes (100g),FOOD,30,"39,000.00","1,170,000.00",0,0,"1,170,000.00","117,000.00","1,287,000.00",49,20220623,South,,Modern Trade,TP-HCM,Kohnan
+12/1/2021,MASS,Food,Pep. Farm MILANO 7.5oz (170 gr),FOOD,5,"81,300.00","406,500.00",0,7,"378,045.00","37,804.50","415,849.50",49,20220623,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,FOOD,Haribo Grapes 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20230212,South,TUR,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,HORECA,BEVERAGE,La Vie Glass Bottle Still 450ml,BEVERAGE,40,"23,000.00","920,000.00","6,900.00",0,"644,000.00","64,400.00","708,400.00",49,20220511,South,VNM,Horeca,TP-HCM,Horeca_South
+12/1/2021,HORECA,Food,Tabasco Sauce Pepper RED (60ml),FOOD,24,"49,500.00","1,188,000.00","13,500.00",0,"864,000.00","86,400.00","950,400.00",49,20260714,South,,Horeca,TP-HCM,Pizza4P
+12/1/2021,MASS,FOOD,Haribo Grapes 80g,FOOD,30,0,0,0,0,0,0,0,49,20230212,South,TUR,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Haribo Worms 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221125,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Happy Cola 80g,FOOD,6,"19,000.00","114,000.00",0,0,"114,000.00","11,400.00","125,400.00",49,20221107,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haribo Goldbears 200g,FOOD,7,"51,900.00","363,300.00",0,0,"363,300.00","36,330.00","399,630.00",49,20221215,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,St Michel Grande Galette 150g,FOOD,24,"63,700.00","1,528,800.00",0,15,"1,299,480.00","129,948.00","1,429,428.00",49,20220710,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,BEVERAGE,Mathieu Teisseire Syrup Peach 33cl,BEVERAGE,3,"112,200.00","336,600.00",0,0,"336,600.00","33,660.00","370,260.00",49,20230713,South,FRA,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,BEVERAGE,Evian Water PET Bottle (330ml),BEVERAGE,24,"19,600.00","470,400.00",0,0,"470,400.00","47,040.00","517,440.00",49,20230518,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Pate Royal Forester Mousse,FOOD,3,"94,000.00","282,000.00",0,0,"282,000.00","28,200.00","310,200.00",49,20260630,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,Merci Petits Milk and Cream Collection Gift box 250g,FOOD,12,"134,000.00","1,608,000.00",0,15,"1,366,800.00","136,680.00","1,503,480.00",49,20220726,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,HORECA,BEVERAGE,Perrier water btl 33cl,BEVERAGE,24,"29,500.00","708,000.00","6,500.00",0,"552,000.00","55,200.00","607,200.00",49,20230331,South,,Horeca,TP-HCM,Horeca5Star_South
+12/1/2021,MASS,FOOD,Riesen dark chocolate chewy toffee 105g,FOOD,15,"32,000.00","480,000.00",0,0,"480,000.00","48,000.00","528,000.00",49,20220831,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Chamallows Pink & White (70g),FOOD,6,"19,000.00","114,000.00",0,0,"114,000.00","11,400.00","125,400.00",49,20220626,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Barilla Pasta Linguine - 500g,FOOD,25,"47,000.00","1,175,000.00",0,0,"1,175,000.00","117,500.00","1,292,500.00",49,20240213,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Pep. Farm Choc Chunk CHESAPEAKE (204g),FOOD,34,"89,000.00","3,026,000.00",0,7,"2,814,180.00","281,418.00","3,095,598.00",49,20220621,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Pep. Farm Distinctive Butter Chessman (206g),FOOD,48,"78,000.00","3,744,000.00",0,0,"3,744,000.00","374,400.00","4,118,400.00",49,20220827,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Goldbears 160g,FOOD,36,"34,300.00","1,234,800.00",0,0,"1,234,800.00","123,480.00","1,358,280.00",49,20221208,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Maille White Wine Vinegar (500ml),FOOD,2,"98,500.00","197,000.00",0,0,"197,000.00","19,700.00","216,700.00",49,20240602,South,,General Trade,TP-HCM,GT_South
+12/1/2021,HORECA,Food,"Emborg Whipped Cream, 30%, Sweetened, in spray can 250g",FOOD,1,"74,900.00","74,900.00",0,0,"74,900.00","7,490.00","82,390.00",49,20220730,South,,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Haribo Worms 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221125,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,FOOD,Barilla Pasta Spaghetti mini 200g,FOOD,56,"18,000.00","1,008,000.00",0,0,"1,008,000.00","100,800.00","1,108,800.00",49,20240201,South,TUR,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,HORECA,Food,Emborg Frozen Mascarpone,FOOD,4,"145,000.00","580,000.00","31,000.00",0,"456,000.00","45,600.00","501,600.00",49,20220329,South,,Horeca,TP-HCM,Horeca_south
+12/1/2021,MASS,Food,Haagen Dazs Coffee Minicup (100ml),FOOD,4,"57,000.00","228,000.00",0,2,"223,440.00","22,344.00","245,784.00",49,20220803,South,,Modern Trade,TP-HCM,FamilyMart
+12/1/2021,MASS,BEVERAGE,Rauch - Happy day Pink Guava,,12,"50,700.00","608,400.00",0,0,"608,400.00","60,840.00","669,240.00",49,20220725,South,AUS,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Kikkoman Teriyaki Sauce Japan Grill (250ml),FOOD,24,"86,300.00","2,071,200.00",0,0,"2,071,200.00","207,120.00","2,278,320.00",49,20240827,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Lindt Excellence 85% Dark Chocolate Tablet (100g),FOOD,15,"94,000.00","1,410,000.00",0,0,"1,410,000.00","141,000.00","1,551,000.00",49,20220831,South,,Modern Trade,TP-HCM,Kohnan
+12/1/2021,MASS,Food,Pep. Farm Wafers Chocolate Fudge (382g),FOOD,12,0,0,0,0,0,0,0,49,20221006,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,McCormick Thyme Leaves (12g),FOOD,5,"32,500.00","162,500.00",0,15,"138,125.00","13,812.50","151,937.50",49,20250616,South,,Modern Trade,TP-HCM,Genshai
+12/1/2021,HORECA,BEVERAGE,Teisseire Syrup Blueberry 70cl,BEVERAGE,1,"195,000.00","195,000.00",0,12,"171,600.00","17,160.00","188,760.00",49,20231007,South,,Horeca,TP-HCM,GoldenGate
+12/1/2021,MASS,FOOD,Ritter Sport Mini Goldschatz 150g,FOOD,12,"66,000.00","792,000.00",0,0,"792,000.00","79,200.00","871,200.00",49,20220713,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Ricola Cranberry Carton Box (40g),FOOD,2,"24,200.00","48,400.00",0,0,"48,400.00","4,840.00","53,240.00",49,20230519,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,"Emborg Cooking Cream, 20% fat, UHT 200ml",FOOD,10,"47,000.00","470,000.00",0,0,"470,000.00","47,000.00","517,000.00",49,20220714,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221205,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,12,"94,200.00","1,130,400.00",0,0,"1,130,400.00","113,040.00","1,243,440.00",49,20230525,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,30,0,0,0,0,0,0,0,49,20221111,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,FOOD,Ritter Sport Fine Dark Chocolate 74% Cocoa 100g,FOOD,24,"43,000.00","1,032,000.00",0,0,"1,032,000.00","103,200.00","1,135,200.00",49,20221006,South,DEU,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Pep. Farm Wafers French Vanilla (382g),FOOD,12,"88,500.00","1,062,000.00",0,10,"955,800.00","95,580.00","1,051,380.00",49,20220929,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Pep. Farm Goldfish CHEDDAR 8.6oz (187 gr),FOOD,24,"59,500.00","1,428,000.00",0,0,"1,428,000.00","142,800.00","1,570,800.00",49,20220726,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Haagen Dazs Strawberry Minicup (100ml),FOOD,12,"50,160.00","601,920.00",0,0,"601,920.00","60,192.00","662,112.00",49,20220829,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Haagen Dazs Blueberry & Cream Minicup (100ml),FOOD,12,0,0,0,0,0,0,0,49,20221010,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,FOOD,"Emborg Frozen Cook & Bake, Buttery, 80% fat, 200g",FOOD,20,"33,500.00","670,000.00",0,0,"670,000.00","67,000.00","737,000.00",49,20230220,South,DNK,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Haagen Dazs Strawberry Minicup (100ml),FOOD,12,"57,000.00","684,000.00",0,0,"684,000.00","68,400.00","752,400.00",49,20220829,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,St Michel Palets (150g),FOOD,3,"57,100.00","171,300.00",0,0,"171,300.00","17,130.00","188,430.00",49,20220522,South,FRA,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,FOOD,Barilla Sauce Bolognese 200g,FOOD,10,"46,300.00","463,000.00",0,0,"463,000.00","46,300.00","509,300.00",49,20230103,South,ITA,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Lindt Swiss Classic Dark Surfin Chocolate Tablet (100g),FOOD,12,"67,000.00","804,000.00",0,3,"779,880.00","77,988.00","857,868.00",49,20221016,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Kuehne Honey-Mustard Dressing (250ml),FOOD,6,"57,500.00","345,000.00",0,0,"345,000.00","34,500.00","379,500.00",49,20230203,South,,Modern Trade,TP-HCM,Jmart
+12/1/2021,MASS,Food,Tyrrells Mature Cheddar Cheese & Chives (40g),FOOD,20,"29,700.00","594,000.00",0,0,"594,000.00","59,400.00","653,400.00",49,20220423,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,60,0,0,0,0,0,0,0,49,20240424,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,McCormick Black Peppercorn Adjustable (35g),FOOD,10,"81,200.00","812,000.00",0,0,"812,000.00","81,200.00","893,200.00",49,20240907,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,2,"19,000.00","38,000.00",0,0,"38,000.00","3,800.00","41,800.00",49,20221021,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,Lorenz Naturals Sea Salt & Pepper (100g),FOOD,48,"40,900.00","1,963,200.00",0,0,"1,963,200.00","196,320.00","2,159,520.00",49,20220604,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haribo Chamallows Pink & White (150g),FOOD,24,"34,300.00","823,200.00",0,0,"823,200.00","82,320.00","905,520.00",49,20220817,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Pasta Angel Hair – 500g,FOOD,25,"47,000.00","1,175,000.00",0,15,"998,750.00","99,875.00","1,098,625.00",49,20240127,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Barilla Sauce Bolognese 200g,FOOD,30,"46,300.00","1,389,000.00",0,0,"1,389,000.00","138,900.00","1,527,900.00",49,20230103,South,ITA,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Lindt Excellence Dark 90% Chocolate Tablet (100g),FOOD,20,"107,000.00","2,140,000.00",0,15,"1,819,000.00","181,900.00","2,000,900.00",49,20220930,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Haribo Goldbears 80g,FOOD,12,"19,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20221111,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Bonne Maman Jam Wild Blueberry (225g),FOOD,6,"84,000.00","504,000.00",0,15,"428,400.00","42,840.00","471,240.00",49,20230715,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Haribo Chamallows Party 150g,FOOD,24,"34,300.00","823,200.00",0,0,"823,200.00","82,320.00","905,520.00",49,20220616,South,TR,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,Food,"Ricola Swiss Herb Candy Tet Gift Box 100g
+",FOOD,128,"84,000.00","10,752,000.00",0,7,"9,999,360.00","999,936.00","10,999,296.00",49,20230518,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Special Fragrance (600ml),FOOD,12,"76,500.00","918,000.00",0,0,"918,000.00","91,800.00","1,009,800.00",49,20230328,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Kikkoman Tasty Japan Stir-fry sauce 150ml,FOOD,2,"36,400.00","72,800.00",0,0,"72,800.00","7,280.00","80,080.00",49,20230712,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,"Pep Farm America Distinctive 376g
+",FOOD,36,"201,000.00","7,236,000.00",0,5,"6,874,200.00","687,420.00","7,561,620.00",49,20220805,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,24,"19,000.00","456,000.00",0,0,"456,000.00","45,600.00","501,600.00",49,20221021,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,FOOD,Westgold Frozen Salted Butter 250g,FOOD,40,"60,400.00","2,416,000.00",0,0,"2,416,000.00","241,600.00","2,657,600.00",49,20221231,South,NZL,Modern Trade,TP-HCM,Coopmart
+12/1/2021,HORECA,FOOD,Westgold UHT Whole Milk 1L,FOOD,24,"33,000.00","792,000.00","8,000.00",0,"600,000.00","60,000.00","660,000.00",49,20220511,South,NZL,Horeca,TP-HCM,Horeca5Star_South
+12/1/2021,MASS,FOOD,Merci Finest Selection Milk Chocolate 250g,FOOD,10,"110,000.00","1,100,000.00",0,0,"1,100,000.00","110,000.00","1,210,000.00",49,20220809,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,NONFOOD,Duracell Coppertop Alkaline AAA4,,12,"47,700.00","572,400.00",0,20,"457,920.00","45,792.00","503,712.00",49,20311030,South,CHN,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,POSM,POSM St Michel - Paper bag 2022,FOOD,24,0,0,0,0,0,0,0,49,NOEXP,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,McCormick Black Peppercorn Adjustable (35g),FOOD,5,"81,200.00","406,000.00",0,0,"406,000.00","40,600.00","446,600.00",49,20240907,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Barilla Sauce Napoletana (400g),FOOD,3,"79,600.00","238,800.00",0,0,"238,800.00","23,880.00","262,680.00",49,20230403,South,,Modern Trade,TP-HCM,Vinmart
+12/1/2021,MASS,FOOD,Riesen Gift Box 315g,FOOD,12,"129,000.00","1,548,000.00",0,0,"1,548,000.00","154,800.00","1,702,800.00",49,20220731,South,DEU,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Pep. Farm Distinctive Butter Chessman (206g),FOOD,5,"78,000.00","390,000.00",0,7,"362,700.00","36,270.00","398,970.00",49,20220827,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,Food,Lindt Swiss Classic Milk Chocolate Tablet (100g),FOOD,12,"67,000.00","804,000.00",0,0,"804,000.00","80,400.00","884,400.00",49,20220930,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,HORECA,BEVERAGE,Evian Water Glass Bottle (750ml),BEVERAGE,144,"53,300.00","7,675,200.00",0,10,"6,907,680.00","690,768.00","7,598,448.00",49,20230208,South,,Horeca,TP-HCM,NovalandGroup
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,25,"47,000.00","1,175,000.00",0,0,"1,175,000.00","117,500.00","1,292,500.00",49,20240423,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,McCormick Ground Allspice (30g),FOOD,4,"70,100.00","280,400.00",0,0,"280,400.00","28,040.00","308,440.00",49,20250424,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Sushi&Sashimi (150ml),FOOD,2,"60,800.00","121,600.00",0,0,"121,600.00","12,160.00","133,760.00",49,20240824,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,HORECA,Food,Kikkoman Mild Aroma Soy Sauce 18L,FOOD,1,"908,000.00","908,000.00","88,000.00",0,"820,000.00","82,000.00","902,000.00",49,20221114,South,,Horeca,TP-HCM,Marukame
+12/1/2021,MASS,FOOD,La Boulangere 6 Croissants 240g,FOOD,2,"56,941.00","113,882.00",0,0,"113,882.00","11,388.20","125,270.20",49,20230202,South,FRA,Modern Trade,TP-HCM,AGM
+12/1/2021,HORECA,SERVICE,Transport Fee,,1,"22,800.00","22,800.00",0,0,"22,800.00","2,280.00","25,080.00",49,NA,South,,Horeca,TP-HCM,Horeca_south
+12/1/2021,MASS,Food,Barilla Pasta Lasagna No.199 (500g),FOOD,12,"103,500.00","1,242,000.00",0,0,"1,242,000.00","124,200.00","1,366,200.00",49,20230225,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Lindt Swiss Classic Dark Surfin Chocolate Tablet (100g),FOOD,18,"67,000.00","1,206,000.00",0,10,"1,085,400.00","108,540.00","1,193,940.00",49,20221016,South,,Modern Trade,TP-HCM,Kohnan
+12/1/2021,MASS,Food,Barilla Pasta Penne Rigate No.73 (500g),FOOD,15,"49,500.00","742,500.00",0,0,"742,500.00","74,250.00","816,750.00",49,20240419,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,POSM,Paper bag for Pep Farm,FOOD,36,0,0,0,0,0,0,0,49,NOEXP,South,VNM,Modern Trade,TP-HCM,Coopmart
+12/1/2021,HORECA,Food,Haribo Goldbears 80g,FOOD,10,"19,000.00","190,000.00",0,0,"190,000.00","19,000.00","209,000.00",49,20221111,South,,Horeca,TP-HCM,Horeca_South
+12/1/2021,MASS,Food,Ritter Sport Mini Chocolate Mix 150g,FOOD,10,"71,000.00","710,000.00",0,0,"710,000.00","71,000.00","781,000.00",49,20220531,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,beverage,Perrier Lime  25cl Slimcan,BEVERAGE,10,"21,300.00","213,000.00",0,0,"213,000.00","21,300.00","234,300.00",49,20221116,South,FRA,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,Ritter Sport Fine Dark Chocolate 74% Cocoa 100g,FOOD,12,"43,000.00","516,000.00",0,0,"516,000.00","51,600.00","567,600.00",49,20221006,South,DEU,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Pep. Farm Double Nantucket (220g),FOOD,29,"89,000.00","2,581,000.00",0,7,"2,400,330.00","240,033.00","2,640,363.00",49,20220712,South,,General Trade,TP-HCM,MSD_South
+12/1/2021,MASS,NONFOOD,Duracell Coppertop Alkaline AA4,,12,"41,976.00","503,712.00",0,15,"428,155.20","42,815.52","470,970.72",49,20311030,South,CHN,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Kikkoman Soy Sauce 43% Less Malt Mild (600ml),FOOD,12,"99,900.00","1,198,800.00",0,0,"1,198,800.00","119,880.00","1,318,680.00",49,20230302,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Tabasco Sauce Pepper RED (60ml),FOOD,12,"53,400.00","640,800.00",0,0,"640,800.00","64,080.00","704,880.00",49,20260714,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Loacker Quadratini Vanilla (125g),FOOD,12,"65,000.00","780,000.00",0,0,"780,000.00","78,000.00","858,000.00",49,20230130,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Cirio Chopped Tomato (400g),FOOD,24,"36,500.00","876,000.00",0,0,"876,000.00","87,600.00","963,600.00",49,20241231,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Tabasco Sauce HABANERO (60ml),FOOD,4,"75,000.00","300,000.00",0,0,"300,000.00","30,000.00","330,000.00",49,20230715,South,,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,12,"19,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20221021,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,"Familia Swiss choco bits 375g
+",FOOD,6,"167,500.00","1,005,000.00",0,0,"1,005,000.00","100,500.00","1,105,500.00",49,20230401,South,CHE,General Trade,TP-HCM,GT_South
+12/1/2021,MASS,Food,Barilla Pasta Penne Rigate No.73 (500g),FOOD,24,"49,500.00","1,188,000.00",0,15,"1,009,800.00","100,980.00","1,110,780.00",49,20240319,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Latino Bella Pitted Green Olives (450g),FOOD,6,"66,000.00","396,000.00",0,15,"336,600.00","33,660.00","370,260.00",49,20240720,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Lindt Excellence Dark 90% Chocolate Tablet (100g),FOOD,20,"107,000.00","2,140,000.00",0,15,"1,819,000.00","181,900.00","2,000,900.00",49,20220930,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,"Emborg Italian, with Mozzarella, Sliced 200g",FOOD,24,"49,200.00","1,180,800.00",0,0,"1,180,800.00","118,080.00","1,298,880.00",49,20220719,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,McCormick Ground Cumin (30g),FOOD,12,"51,300.00","615,600.00",0,0,"615,600.00","61,560.00","677,160.00",49,20240531,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Pep. Farm Wafers Chocolate Hazelnut (382g),FOOD,12,"88,500.00","1,062,000.00",0,5,"1,008,900.00","100,890.00","1,109,790.00",49,20220901,South,,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Haagen Dazs Green Tea Minicup (100ml),FOOD,4,"57,000.00","228,000.00",0,0,"228,000.00","22,800.00","250,800.00",49,20221006,South,,Modern Trade,TP-HCM,CircleK_South
+12/1/2021,MASS,FOOD,McVitie's Digestives Nibbles Milk Choco (80g),FOOD,28,"25,000.00","700,000.00",0,0,"700,000.00","70,000.00","770,000.00",49,20221028,South,GBR,Modern Trade,TP-HCM,Aeon
+12/1/2021,MASS,FOOD,"Emborg Frozen Cook & Bake, Buttery, 80% fat, 200g",FOOD,24,"29,480.00","707,520.00",0,0,"707,520.00","70,752.00","778,272.00",49,20230220,South,DNK,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,McCormick Ground Cumin (30g),FOOD,48,"51,300.00","2,462,400.00",0,0,"2,462,400.00","246,240.00","2,708,640.00",49,20240531,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,FOOD,"Emborg Milk Full Cream UHT, 3,5% Fat 1L (Poland)",FOOD,24,"29,000.00","696,000.00",0,30,"487,200.00","48,720.00","535,920.00",49,20220624,South,DNK,Modern Trade,TP-HCM,Coopmart
+12/1/2021,MASS,Food,Kikkoman Teriyaki Sauce Japan Grill (250ml),FOOD,36,"86,300.00","3,106,800.00",0,2,"3,044,664.00","304,466.40","3,349,130.40",49,20240827,South,,General Trade,TP-HCM,MWH_South
+12/1/2021,MASS,Food,Kikkoman Soy Sauce Special Fragrance (600ml),FOOD,24,"76,500.00","1,836,000.00",0,0,"1,836,000.00","183,600.00","2,019,600.00",49,20230328,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,BEVERAGE,Perrier  25cl Slimcan,BEVERAGE,20,"21,300.00","426,000.00",0,20,"340,800.00","34,080.00","374,880.00",49,20230217,South,FRA,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,FOOD,"Emborg Milk Full Cream UHT, 3,5% Fat 1L (Poland)",FOOD,12,"29,000.00","348,000.00",0,30,"243,600.00","24,360.00","267,960.00",49,20220624,South,DNK,Modern Trade,TP-HCM,Coopmart
+12/1/2021,HORECA,Food,Barilla Pasta Farfalle No.65 (500g),FOOD,3,"49,500.00","148,500.00",0,0,"148,500.00","14,850.00","163,350.00",49,20240227,South,,Horeca,TP-HCM,Horeca5Star_South
+12/1/2021,MASS,Food,Haagen Dazs Cookies & Cream Minicup (100ml),FOOD,4,"57,000.00","228,000.00",0,2,"223,440.00","22,344.00","245,784.00",49,20220822,South,,Modern Trade,TP-HCM,FamilyMart
+12/1/2021,MASS,Food,Cirio Chick Pea (400g),FOOD,12,"32,500.00","390,000.00",0,0,"390,000.00","39,000.00","429,000.00",49,20251231,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Latino Bella Pitted Green Olives (235g),FOOD,12,"41,000.00","492,000.00",0,0,"492,000.00","49,200.00","541,200.00",49,20240507,South,,Modern Trade,TP-HCM,LotteMart
+12/1/2021,MASS,Food,Haagen Dazs Cookies & Cream Minicup (100ml),FOOD,48,"57,000.00","2,736,000.00",0,0,"2,736,000.00","273,600.00","3,009,600.00",49,20220822,South,,Modern Trade,TP-HCM,Metro
+12/1/2021,MASS,Food,Barilla Sauce Bolognese (400g),FOOD,90,"94,200.00","8,478,000.00",0,0,"8,478,000.00","847,800.00","9,325,800.00",49,20230430,South,,Modern Trade,TP-HCM,CoopXtra
+12/1/2021,MASS,Food,Haagen Dazs Cookies & Cream Minicup (100ml),FOOD,7,"50,160.00","351,120.00",0,0,"351,120.00","35,112.00","386,232.00",49,20220822,South,,Modern Trade,TP-HCM,AGM
+12/1/2021,MASS,Food,Barilla Sauce Basilico (400g),FOOD,6,"79,600.00","477,600.00",0,0,"477,600.00","47,760.00","525,360.00",49,20230406,South,,Modern Trade,TP-HCM,BigC
+12/1/2021,MASS,Food,Barilla Pasta Spaghetti No.5 (500g),FOOD,15,"47,000.00","705,000.00",0,25,"528,750.00","52,875.00","581,625.00",49,20240424,South,,Modern Trade,TP-HCM,CoopFood
+12/1/2021,MASS,Food,Haribo Starmix 80g,FOOD,48,"19,000.00","912,000.00",0,0,"912,000.00","91,200.00","1,003,200.00",49,20221021,South,,Modern Trade,TP-HCM,Vinmart
